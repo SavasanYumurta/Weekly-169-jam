@@ -4,30 +4,29 @@ using UnityEngine;
 
 public class Top : MonoBehaviour
 {
-    [SerializeField] private GameObject player, Mermi;
-    [SerializeField] private CameraFollow camFol;
-    [SerializeField] private float offsetx,offsety;
-    public void Update()
+    public GameObject mermi;
+    public GameObject yazi;
+    public GameObject Topy;
+
+    public void OnTriggerEnter2D(Collision2D collision)
     {
-        float dis = (Vector2.Distance(player.transform.position, this.transform.position));
-        if (dis <= 2)
+        if (collision.transform.tag == "TopMermi")
         {
-            transform.GetChild(0).gameObject.SetActive(true);
+            Debug.Log("Deydi");
+            yazi.SetActive(true);
             if (Input.GetKeyDown(KeyCode.F))
             {
-                Ates();
+                mermi.SetActive(true);
+                StartCoroutine(Topp());
             }
-        }
-        else
-        {
-            transform.GetChild(0).gameObject.SetActive(false);
+
         }
     }
-    public void Ates()
+    IEnumerator Topp()
     {
-        GameObject go = Instantiate(Mermi,new Vector3(transform.position.x + offsetx,transform.position.y + offsety,-1),Quaternion.identity);
-        camFol.topVarmi = true;
-        camFol.Top = go.transform;
-        print("ates");
+
+        yield return new WaitForSeconds(0.66f);
+        mermi.SetActive(false);
     }
+  
 }

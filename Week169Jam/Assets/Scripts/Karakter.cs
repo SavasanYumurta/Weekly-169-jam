@@ -3,6 +3,7 @@ public class Karakter : MonoBehaviour
 {
     [SerializeField]private int speed, jumpSpeed, climbSpeed;
 
+    
     Animator animator;
     Rigidbody2D rb;
 
@@ -100,4 +101,6 @@ public class Karakter : MonoBehaviour
             this.transform.SetParent(null);
         }
     }
+  
+
 }
