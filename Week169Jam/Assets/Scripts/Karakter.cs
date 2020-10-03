@@ -18,6 +18,10 @@ public class Karakter : MonoBehaviour
 
     private void FixedUpdate()
     {
+        if (Input.GetButtonDown("Jump"))
+        {
+            Jump();
+        }
         float moveInput = Input.GetAxis("Horizontal");
         rb.velocity = new Vector2(moveInput * speed, rb.velocity.y);
 
@@ -38,12 +42,6 @@ public class Karakter : MonoBehaviour
         else if (faceRight == false && moveInput > 0)
         {
             Flip();
-        }
-
-        if (Input.GetButtonDown("Jump"))
-        {
-            Debug.Log("zıp");
-            Jump();
         }
     }
 
@@ -70,6 +68,13 @@ public class Karakter : MonoBehaviour
         if(collision.transform.tag == "Gemi")
         {
             this.transform.SetParent(collision.transform);
+        }
+    }
+    public void OnCollisionStay2D(Collision2D collision)
+    {
+        if (!isGround)
+        {
+        isGround = true;
         }
     }
     public void OnCollisionExit2D(Collision2D collision)
