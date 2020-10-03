@@ -593,9 +593,9 @@ RectTransform:
   m_Father: {fileID: 880157544}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 100, y: -100}
+  m_AnchorMin: {x: 1, y: 1}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -100, y: -100}
   m_SizeDelta: {x: 200, y: 200}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &531842716
@@ -1644,12 +1644,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 626e119193c0c9e4ca63eb0cc241899c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rb: {fileID: 0}
   anim: {fileID: 0}
   speed: 10
-  jumpSpeed: 50
+  jumpSpeed: 400
   isGround: 0
   faceRight: 1
+  isJump: 0
 --- !u!61 &2093654916
 BoxCollider2D:
   m_ObjectHideFlags: 0

@@ -4,10 +4,10 @@ using UnityEngine;
 
 public class Karakter : MonoBehaviour
 {
-    public Rigidbody2D rb;
+    private Rigidbody2D rb;
     public Animator anim;
     [SerializeField] private float speed, jumpSpeed;
-    [SerializeField] private bool isGround,faceRight;
+    [SerializeField] private bool isGround,faceRight,isJump;
     public void Start()
     {
         faceRight = true;
@@ -20,9 +20,9 @@ public class Karakter : MonoBehaviour
         float y = Input.GetAxis("Vertical");
         rb.velocity = new Vector2(x, 0) * speed;
         anim.SetFloat("Hiz", x);
-        if(y > 0.1)
+        if(Input.GetKeyDown(KeyCode.Space))
         {
-            if (isGround)
+            if (isGround && !isJump)
             {
                 rb.AddForce(Vector2.up * jumpSpeed);
             }
