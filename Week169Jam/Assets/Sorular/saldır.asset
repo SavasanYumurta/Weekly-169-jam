@@ -12,10 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 631b174bc837120489b891d46537cbb2, type: 3}
   m_Name: "sald\u0131r"
   m_EditorClassIdentifier: 
-  soru: 
-  birinciC: 
-  ikinciC: 
-  UcuncuC: 
+  soru: "Sald\u0131rmaya karar verdin nas\u0131l bir tutum izliyeceksin"
+  birinciC: "Sald\u0131rgan(Daha h\u0131zl\u0131 barut yenileme, daha zay\u0131f
+    diren\xE7 ve can)"
+  ikinciC: "Dengeli(Normal barut yenileme h\u0131z\u0131, normal can ve diren\xE7"
+  UcuncuC: "Savungan(Yava\u015F barut yenileme h\u0131z\u0131, daha \xE7ok can ve
+    diren\xE7)"
   C1Soru: {fileID: 0}
   C2Soru: {fileID: 0}
   C3Soru: {fileID: 0}
+  "oynan\u0131s": 1

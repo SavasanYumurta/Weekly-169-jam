@@ -12,7 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 631b174bc837120489b891d46537cbb2, type: 3}
   m_Name: Soru
   m_EditorClassIdentifier: 
-  soru: 
-  birinciC: 
-  ikinciC: 
-  UcuncuC: 
+  soru: "Korsanlarla kar\u015F\u0131la\u015Ft\u0131n ne yapacaks\u0131n?"
+  birinciC: "Ka\xE7"
+  ikinciC: "Cesurca D\xF6v\xFC\u015F"
+  UcuncuC: Geminle gemilerine bodozlama gir
+  C1Soru: {fileID: 11400000, guid: 6f3a160d6ca91cd41986d8b823941375, type: 2}
+  C2Soru: {fileID: 11400000, guid: 924beb8f4e413c3499cd1832fd6a62b1, type: 2}
+  C3Soru: {fileID: 0}
+  "oynan\u0131s": 0
