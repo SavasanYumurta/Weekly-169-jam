@@ -24,7 +24,7 @@ public class Karakter : MonoBehaviour
         {
             if (isGround)
             {
-                rb.AddForce(Vector2.up * jumpSpeed, ForceMode2D.Impulse);
+                rb.AddForce(Vector2.up * jumpSpeed);
             }
         }
         if (faceRight == true && x < 0)
@@ -47,9 +47,17 @@ public class Karakter : MonoBehaviour
     public void OnCollisionEnter2D(Collision2D collision)
     {
         isGround = true;
+        if(collision.transform.tag == "Gemi")
+        {
+            this.transform.SetParent(collision.transform);
+        }
     }
     public void OnCollisionExit2D(Collision2D collision)
     {
         isGround = false;
+        if (collision.transform.tag == "Gemi")
+        {
+            this.transform.SetParent(null);
+        }
     }
 }
