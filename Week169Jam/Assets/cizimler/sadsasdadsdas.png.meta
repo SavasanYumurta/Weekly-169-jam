@@ -1,0 +1,7424 @@
+fileFormatVersion: 2
+guid: c729be50b045a6545bd97c995278159e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3500586042636402923
+    second: sadsasdadsdas_0
+  - first:
+      213: -5934069466933058615
+    second: sadsasdadsdas_1
+  - first:
+      213: -8201271459073152165
+    second: sadsasdadsdas_2
+  - first:
+      213: -647650930159876800
+    second: sadsasdadsdas_3
+  - first:
+      213: 4877670590422136512
+    second: sadsasdadsdas_4
+  - first:
+      213: 2674484414459186811
+    second: sadsasdadsdas_5
+  - first:
+      213: -8627130481471134768
+    second: sadsasdadsdas_6
+  - first:
+      213: 5108033587457807363
+    second: sadsasdadsdas_7
+  - first:
+      213: 2081708769847641013
+    second: sadsasdadsdas_8
+  - first:
+      213: -918962214655167659
+    second: sadsasdadsdas_9
+  - first:
+      213: -4986075178208694110
+    second: sadsasdadsdas_10
+  - first:
+      213: -3590222985810366394
+    second: sadsasdadsdas_11
+  - first:
+      213: 2401261815977789899
+    second: sadsasdadsdas_12
+  - first:
+      213: -6770022186426748539
+    second: sadsasdadsdas_13
+  - first:
+      213: 4838215506558419392
+    second: sadsasdadsdas_14
+  - first:
+      213: -2904718241260403995
+    second: sadsasdadsdas_15
+  - first:
+      213: -6723357232596416985
+    second: sadsasdadsdas_16
+  - first:
+      213: -6569469825330284787
+    second: sadsasdadsdas_17
+  - first:
+      213: 1122851344126362259
+    second: sadsasdadsdas_18
+  - first:
+      213: -2198846428513703973
+    second: sadsasdadsdas_19
+  - first:
+      213: 5109686712170225568
+    second: sadsasdadsdas_20
+  - first:
+      213: -7107439131658466020
+    second: sadsasdadsdas_21
+  - first:
+      213: -2062122950744141943
+    second: sadsasdadsdas_22
+  - first:
+      213: 6140914795521413583
+    second: sadsasdadsdas_23
+  - first:
+      213: -5421979107110855109
+    second: sadsasdadsdas_24
+  - first:
+      213: -2465383494855156523
+    second: sadsasdadsdas_25
+  - first:
+      213: 5787965229371395087
+    second: sadsasdadsdas_26
+  - first:
+      213: 930254683620091667
+    second: sadsasdadsdas_27
+  - first:
+      213: 1206925460185969163
+    second: sadsasdadsdas_28
+  - first:
+      213: -2223603636954129225
+    second: sadsasdadsdas_29
+  - first:
+      213: 7520639686478559547
+    second: sadsasdadsdas_30
+  - first:
+      213: 3664547259404762898
+    second: sadsasdadsdas_31
+  - first:
+      213: -2208170240222449880
+    second: sadsasdadsdas_32
+  - first:
+      213: 4812737564990590316
+    second: sadsasdadsdas_33
+  - first:
+      213: 8639235533147826603
+    second: sadsasdadsdas_34
+  - first:
+      213: 3930592034276222875
+    second: sadsasdadsdas_35
+  - first:
+      213: 5301029771274851977
+    second: sadsasdadsdas_36
+  - first:
+      213: 8099237444489666065
+    second: sadsasdadsdas_37
+  - first:
+      213: 2112300364997768206
+    second: sadsasdadsdas_38
+  - first:
+      213: 4405472804118454861
+    second: sadsasdadsdas_39
+  - first:
+      213: 7838308068525551967
+    second: sadsasdadsdas_40
+  - first:
+      213: 8260131337954064561
+    second: sadsasdadsdas_41
+  - first:
+      213: 2815562226334779189
+    second: sadsasdadsdas_42
+  - first:
+      213: -5030218570304372171
+    second: sadsasdadsdas_43
+  - first:
+      213: -2867833404419437980
+    second: sadsasdadsdas_44
+  - first:
+      213: -5797756429212539073
+    second: sadsasdadsdas_45
+  - first:
+      213: 3796102106334419884
+    second: sadsasdadsdas_46
+  - first:
+      213: 7926007887738705010
+    second: sadsasdadsdas_47
+  - first:
+      213: -3407196494780666804
+    second: sadsasdadsdas_48
+  - first:
+      213: 931924513445576785
+    second: sadsasdadsdas_49
+  - first:
+      213: 3277831625233896324
+    second: sadsasdadsdas_50
+  - first:
+      213: 3463990354441600006
+    second: sadsasdadsdas_51
+  - first:
+      213: -6492603624926931238
+    second: sadsasdadsdas_52
+  - first:
+      213: -3628888644223648773
+    second: sadsasdadsdas_53
+  - first:
+      213: -6485256260411942216
+    second: sadsasdadsdas_54
+  - first:
+      213: 2693682269008909040
+    second: sadsasdadsdas_55
+  - first:
+      213: 4160149233323821949
+    second: sadsasdadsdas_56
+  - first:
+      213: 1371179623890184939
+    second: sadsasdadsdas_57
+  - first:
+      213: -6676452125617421986
+    second: sadsasdadsdas_58
+  - first:
+      213: -4542090832754074804
+    second: sadsasdadsdas_59
+  - first:
+      213: -6269330779219460851
+    second: sadsasdadsdas_60
+  - first:
+      213: 5158698594223175779
+    second: sadsasdadsdas_61
+  - first:
+      213: 8305346613583016415
+    second: sadsasdadsdas_62
+  - first:
+      213: -4445873203558374339
+    second: sadsasdadsdas_63
+  - first:
+      213: 5643635850883117952
+    second: sadsasdadsdas_64
+  - first:
+      213: 4997952808834772170
+    second: sadsasdadsdas_65
+  - first:
+      213: 6266147411408715945
+    second: sadsasdadsdas_66
+  - first:
+      213: -256074552062219349
+    second: sadsasdadsdas_67
+  - first:
+      213: 2917930118916509187
+    second: sadsasdadsdas_68
+  - first:
+      213: 865108563275806711
+    second: sadsasdadsdas_69
+  - first:
+      213: 4241084291142038982
+    second: sadsasdadsdas_70
+  - first:
+      213: 509483479851611994
+    second: sadsasdadsdas_71
+  - first:
+      213: -548057577119785355
+    second: sadsasdadsdas_72
+  - first:
+      213: 1010893712802676558
+    second: sadsasdadsdas_73
+  - first:
+      213: 2208626688768549764
+    second: sadsasdadsdas_74
+  - first:
+      213: -3332943899251365248
+    second: sadsasdadsdas_75
+  - first:
+      213: -5594748367966069326
+    second: sadsasdadsdas_76
+  - first:
+      213: 6189541322862042248
+    second: sadsasdadsdas_77
+  - first:
+      213: 7117633550218444900
+    second: sadsasdadsdas_78
+  - first:
+      213: -3974445887060002724
+    second: sadsasdadsdas_79
+  - first:
+      213: -8187294263268173535
+    second: sadsasdadsdas_80
+  - first:
+      213: 3123929867802147514
+    second: sadsasdadsdas_81
+  - first:
+      213: -1744993206961566008
+    second: sadsasdadsdas_82
+  - first:
+      213: -8430782570446962758
+    second: sadsasdadsdas_83
+  - first:
+      213: -2947601470437381371
+    second: sadsasdadsdas_84
+  - first:
+      213: -2466315646048508817
+    second: sadsasdadsdas_85
+  - first:
+      213: -6074341168412520338
+    second: sadsasdadsdas_86
+  - first:
+      213: 211316308992942019
+    second: sadsasdadsdas_87
+  - first:
+      213: 7105497375236230891
+    second: sadsasdadsdas_88
+  - first:
+      213: -2061185346009048978
+    second: sadsasdadsdas_89
+  - first:
+      213: 4938355620971964211
+    second: sadsasdadsdas_90
+  - first:
+      213: 1868040597023661906
+    second: sadsasdadsdas_91
+  - first:
+      213: -3182233095945915647
+    second: sadsasdadsdas_92
+  - first:
+      213: 259552554131892575
+    second: sadsasdadsdas_93
+  - first:
+      213: 1312862579135184740
+    second: sadsasdadsdas_94
+  - first:
+      213: 7860632567928288046
+    second: sadsasdadsdas_95
+  - first:
+      213: -7395971861603378346
+    second: sadsasdadsdas_96
+  - first:
+      213: -103452495634600196
+    second: sadsasdadsdas_97
+  - first:
+      213: 2711206039867453016
+    second: sadsasdadsdas_98
+  - first:
+      213: 7248536025223192373
+    second: sadsasdadsdas_99
+  - first:
+      213: 3983921255140401365
+    second: sadsasdadsdas_100
+  - first:
+      213: 8806537744752180187
+    second: sadsasdadsdas_101
+  - first:
+      213: 4331164659308949460
+    second: sadsasdadsdas_102
+  - first:
+      213: 2791906937209852724
+    second: sadsasdadsdas_103
+  - first:
+      213: 1574173484686563958
+    second: sadsasdadsdas_104
+  - first:
+      213: 8917029348919916722
+    second: sadsasdadsdas_105
+  - first:
+      213: 6068437274450824970
+    second: sadsasdadsdas_106
+  - first:
+      213: 4459274832456909039
+    second: sadsasdadsdas_107
+  - first:
+      213: -4759720754669052211
+    second: sadsasdadsdas_108
+  - first:
+      213: 105458597743247410
+    second: sadsasdadsdas_109
+  - first:
+      213: -1000088671055620799
+    second: sadsasdadsdas_110
+  - first:
+      213: -2978701720299745300
+    second: sadsasdadsdas_111
+  - first:
+      213: -1517606690611585515
+    second: sadsasdadsdas_112
+  - first:
+      213: 3909281208709433750
+    second: sadsasdadsdas_113
+  - first:
+      213: 854198385508880107
+    second: sadsasdadsdas_114
+  - first:
+      213: -6750780165844408840
+    second: sadsasdadsdas_115
+  - first:
+      213: -615477184858187566
+    second: sadsasdadsdas_116
+  - first:
+      213: 9198566083255280631
+    second: sadsasdadsdas_117
+  - first:
+      213: -6371833905758038233
+    second: sadsasdadsdas_118
+  - first:
+      213: 6204193434929599762
+    second: sadsasdadsdas_119
+  - first:
+      213: 501286573334628489
+    second: sadsasdadsdas_120
+  - first:
+      213: 7755862033570825980
+    second: sadsasdadsdas_121
+  - first:
+      213: 3629606365576988068
+    second: sadsasdadsdas_122
+  - first:
+      213: -3115675618442447045
+    second: sadsasdadsdas_123
+  - first:
+      213: -3776788204265331424
+    second: sadsasdadsdas_124
+  - first:
+      213: -5270672097797555099
+    second: sadsasdadsdas_125
+  - first:
+      213: -959936781860175979
+    second: sadsasdadsdas_126
+  - first:
+      213: 1165056733640538051
+    second: sadsasdadsdas_127
+  - first:
+      213: -4767666434932424222
+    second: sadsasdadsdas_128
+  - first:
+      213: 4906173555463051595
+    second: sadsasdadsdas_129
+  - first:
+      213: -8779715835412319325
+    second: sadsasdadsdas_130
+  - first:
+      213: -2924376103297918734
+    second: sadsasdadsdas_131
+  - first:
+      213: -7774784424672024707
+    second: sadsasdadsdas_132
+  - first:
+      213: -8502120110281185156
+    second: sadsasdadsdas_133
+  - first:
+      213: -6857952802173814115
+    second: sadsasdadsdas_134
+  - first:
+      213: -2686205921107336547
+    second: sadsasdadsdas_135
+  - first:
+      213: 8069207023716161751
+    second: sadsasdadsdas_136
+  - first:
+      213: 7856620282056142849
+    second: sadsasdadsdas_137
+  - first:
+      213: -4134823728787016230
+    second: sadsasdadsdas_138
+  - first:
+      213: -8237087894848961229
+    second: sadsasdadsdas_139
+  - first:
+      213: 3638852535790841971
+    second: sadsasdadsdas_140
+  - first:
+      213: -1010688553994232388
+    second: sadsasdadsdas_141
+  - first:
+      213: -2925669982887432587
+    second: sadsasdadsdas_142
+  - first:
+      213: -4569571081374100537
+    second: sadsasdadsdas_143
+  - first:
+      213: 4018359325775270789
+    second: sadsasdadsdas_144
+  - first:
+      213: 3749869295964691580
+    second: sadsasdadsdas_145
+  - first:
+      213: -7871350771246258736
+    second: sadsasdadsdas_146
+  - first:
+      213: 5244171003587263714
+    second: sadsasdadsdas_147
+  - first:
+      213: -5045716837312027021
+    second: sadsasdadsdas_148
+  - first:
+      213: 3085450856462056565
+    second: sadsasdadsdas_149
+  - first:
+      213: -3838541455063365514
+    second: sadsasdadsdas_150
+  - first:
+      213: 9089922434829221290
+    second: sadsasdadsdas_151
+  - first:
+      213: -8332514461291128676
+    second: sadsasdadsdas_152
+  - first:
+      213: 311524059382053486
+    second: sadsasdadsdas_153
+  - first:
+      213: 2340864439590085452
+    second: sadsasdadsdas_154
+  - first:
+      213: 4023526277586104870
+    second: sadsasdadsdas_155
+  - first:
+      213: 6119254314361022367
+    second: sadsasdadsdas_156
+  - first:
+      213: 4034620309721320323
+    second: sadsasdadsdas_157
+  - first:
+      213: 4947649878792746030
+    second: sadsasdadsdas_158
+  - first:
+      213: 3891613428298632006
+    second: sadsasdadsdas_159
+  - first:
+      213: -7420655958107298031
+    second: sadsasdadsdas_160
+  - first:
+      213: -4146710819898322134
+    second: sadsasdadsdas_161
+  - first:
+      213: 4314982976512981900
+    second: sadsasdadsdas_162
+  - first:
+      213: -4693597466046212554
+    second: sadsasdadsdas_163
+  - first:
+      213: 5926401177385181043
+    second: sadsasdadsdas_164
+  - first:
+      213: -2699509529228241275
+    second: sadsasdadsdas_165
+  - first:
+      213: 2555561216298278146
+    second: sadsasdadsdas_166
+  - first:
+      213: 870624278919826012
+    second: sadsasdadsdas_167
+  - first:
+      213: 5724783240391116691
+    second: sadsasdadsdas_168
+  - first:
+      213: 1826103123763955517
+    second: sadsasdadsdas_169
+  - first:
+      213: -7829356307806711585
+    second: sadsasdadsdas_170
+  - first:
+      213: 3726557539107747635
+    second: sadsasdadsdas_171
+  - first:
+      213: -2532545357272757804
+    second: sadsasdadsdas_172
+  - first:
+      213: -8481847222814912570
+    second: sadsasdadsdas_173
+  - first:
+      213: -4789951191580872224
+    second: sadsasdadsdas_174
+  - first:
+      213: 4730974620032021304
+    second: sadsasdadsdas_175
+  - first:
+      213: -7039462170382431779
+    second: sadsasdadsdas_176
+  - first:
+      213: 2730672999616152361
+    second: sadsasdadsdas_177
+  - first:
+      213: -9040159204502370990
+    second: sadsasdadsdas_178
+  - first:
+      213: -7065945244895827031
+    second: sadsasdadsdas_179
+  - first:
+      213: -7689033322451324749
+    second: sadsasdadsdas_180
+  - first:
+      213: -286581878777099856
+    second: sadsasdadsdas_181
+  - first:
+      213: 5067227484641010509
+    second: sadsasdadsdas_182
+  - first:
+      213: -5224645078861050728
+    second: sadsasdadsdas_183
+  - first:
+      213: -6422619482303938048
+    second: sadsasdadsdas_184
+  - first:
+      213: -7316445816371918374
+    second: sadsasdadsdas_185
+  - first:
+      213: 3003636342089826354
+    second: sadsasdadsdas_186
+  - first:
+      213: -7011032252823876636
+    second: sadsasdadsdas_187
+  - first:
+      213: 139584897709421554
+    second: sadsasdadsdas_188
+  - first:
+      213: -8981951277544055364
+    second: sadsasdadsdas_189
+  - first:
+      213: 6369208478255891245
+    second: sadsasdadsdas_190
+  - first:
+      213: 8172932581463285253
+    second: sadsasdadsdas_191
+  - first:
+      213: 2632566009684590432
+    second: sadsasdadsdas_192
+  - first:
+      213: -4579863873711286741
+    second: sadsasdadsdas_193
+  - first:
+      213: -860468394895273447
+    second: sadsasdadsdas_194
+  - first:
+      213: 5722151360468780292
+    second: sadsasdadsdas_195
+  - first:
+      213: -6675175673600987804
+    second: sadsasdadsdas_196
+  - first:
+      213: 7157181640886255967
+    second: sadsasdadsdas_197
+  - first:
+      213: -4858717945074382486
+    second: sadsasdadsdas_198
+  - first:
+      213: -4432344401593356649
+    second: sadsasdadsdas_199
+  - first:
+      213: -7732945012635822534
+    second: sadsasdadsdas_200
+  - first:
+      213: 5160408535713068300
+    second: sadsasdadsdas_201
+  - first:
+      213: -6950959261571745874
+    second: sadsasdadsdas_202
+  - first:
+      213: -2867128363233415649
+    second: sadsasdadsdas_203
+  - first:
+      213: -8919513512057861651
+    second: sadsasdadsdas_204
+  - first:
+      213: -3491496565440722901
+    second: sadsasdadsdas_205
+  - first:
+      213: 5628528283671758595
+    second: sadsasdadsdas_206
+  - first:
+      213: 2207594267970788197
+    second: sadsasdadsdas_207
+  - first:
+      213: 3514220031328447646
+    second: sadsasdadsdas_208
+  - first:
+      213: 120988818182411556
+    second: sadsasdadsdas_209
+  - first:
+      213: 6039889460830150997
+    second: sadsasdadsdas_210
+  - first:
+      213: 2819502212022169855
+    second: sadsasdadsdas_211
+  - first:
+      213: 2670421532990082702
+    second: sadsasdadsdas_212
+  - first:
+      213: 1892168504856300719
+    second: sadsasdadsdas_213
+  - first:
+      213: -63921708231259306
+    second: sadsasdadsdas_214
+  - first:
+      213: 746481317347291682
+    second: sadsasdadsdas_215
+  - first:
+      213: -4971841266998855654
+    second: sadsasdadsdas_216
+  - first:
+      213: -8676850046124605472
+    second: sadsasdadsdas_217
+  - first:
+      213: 4128682051215250001
+    second: sadsasdadsdas_218
+  - first:
+      213: 5686554311736276141
+    second: sadsasdadsdas_219
+  - first:
+      213: -3365014525543284087
+    second: sadsasdadsdas_220
+  - first:
+      213: 8218883634598214404
+    second: sadsasdadsdas_221
+  - first:
+      213: 427112757854740757
+    second: sadsasdadsdas_222
+  - first:
+      213: 1990022865013865709
+    second: sadsasdadsdas_223
+  - first:
+      213: 5452077275141488708
+    second: sadsasdadsdas_224
+  - first:
+      213: -2082685261496235974
+    second: sadsasdadsdas_225
+  - first:
+      213: -3828983533959061509
+    second: sadsasdadsdas_226
+  - first:
+      213: -7700566005003624403
+    second: sadsasdadsdas_227
+  - first:
+      213: 8152431352598392459
+    second: sadsasdadsdas_228
+  - first:
+      213: 5806115837592391329
+    second: sadsasdadsdas_229
+  - first:
+      213: -1735254376841149046
+    second: sadsasdadsdas_230
+  - first:
+      213: 3958079771071140027
+    second: sadsasdadsdas_231
+  - first:
+      213: 7044362937261649217
+    second: sadsasdadsdas_232
+  - first:
+      213: -6199734563552140516
+    second: sadsasdadsdas_233
+  - first:
+      213: -4438166970328545320
+    second: sadsasdadsdas_234
+  - first:
+      213: 7244953644543647211
+    second: sadsasdadsdas_235
+  - first:
+      213: 7309991060500517473
+    second: sadsasdadsdas_236
+  - first:
+      213: 1647466682525863573
+    second: sadsasdadsdas_237
+  - first:
+      213: 6981730825782505964
+    second: sadsasdadsdas_238
+  - first:
+      213: -2717870277772631917
+    second: sadsasdadsdas_239
+  - first:
+      213: 922326223117452504
+    second: sadsasdadsdas_240
+  - first:
+      213: 6007435691692556732
+    second: sadsasdadsdas_241
+  - first:
+      213: 6783783152230984910
+    second: sadsasdadsdas_242
+  - first:
+      213: 4423176952179045679
+    second: sadsasdadsdas_243
+  - first:
+      213: 2811830274200209308
+    second: sadsasdadsdas_244
+  - first:
+      213: 5024291717276859462
+    second: sadsasdadsdas_245
+  - first:
+      213: 7486989556989625284
+    second: sadsasdadsdas_246
+  - first:
+      213: -3058928652219135459
+    second: sadsasdadsdas_247
+  - first:
+      213: 3004996771359681420
+    second: sadsasdadsdas_248
+  - first:
+      213: -2093766017833362396
+    second: sadsasdadsdas_249
+  - first:
+      213: 2119088659396494008
+    second: sadsasdadsdas_250
+  - first:
+      213: 8882847724481599722
+    second: sadsasdadsdas_251
+  - first:
+      213: -1783578685938711721
+    second: sadsasdadsdas_252
+  - first:
+      213: -7363041578848563088
+    second: sadsasdadsdas_253
+  - first:
+      213: 4641789132910415179
+    second: sadsasdadsdas_254
+  - first:
+      213: 4023795923132004685
+    second: sadsasdadsdas_255
+  - first:
+      213: 5358696629397457781
+    second: sadsasdadsdas_256
+  - first:
+      213: -7844504037152597410
+    second: sadsasdadsdas_257
+  - first:
+      213: 2117456181939968891
+    second: sadsasdadsdas_258
+  - first:
+      213: -4033247021149123810
+    second: sadsasdadsdas_259
+  - first:
+      213: 126498883681898330
+    second: sadsasdadsdas_260
+  - first:
+      213: -8947662085269697168
+    second: sadsasdadsdas_261
+  - first:
+      213: -2585541881062997245
+    second: sadsasdadsdas_262
+  - first:
+      213: 6867006350092443946
+    second: sadsasdadsdas_263
+  - first:
+      213: 1620479081191694204
+    second: sadsasdadsdas_264
+  - first:
+      213: -4237141325864501721
+    second: sadsasdadsdas_265
+  - first:
+      213: 1626493319782786477
+    second: sadsasdadsdas_266
+  - first:
+      213: -7632424525320521729
+    second: sadsasdadsdas_267
+  - first:
+      213: -3932175656238398100
+    second: sadsasdadsdas_268
+  - first:
+      213: -6875089724455559207
+    second: sadsasdadsdas_269
+  - first:
+      213: 2206654151668733995
+    second: sadsasdadsdas_270
+  - first:
+      213: -4507469685842976302
+    second: sadsasdadsdas_271
+  - first:
+      213: -2946816290297560106
+    second: sadsasdadsdas_272
+  - first:
+      213: 4089533985273827218
+    second: sadsasdadsdas_273
+  - first:
+      213: 6773876300208188129
+    second: sadsasdadsdas_274
+  - first:
+      213: 9117654232398531092
+    second: sadsasdadsdas_275
+  - first:
+      213: 3414903951113877992
+    second: sadsasdadsdas_276
+  - first:
+      213: -6092340545327481010
+    second: sadsasdadsdas_277
+  - first:
+      213: -3121008870432837527
+    second: sadsasdadsdas_278
+  - first:
+      213: -2697799878726200689
+    second: sadsasdadsdas_279
+  - first:
+      213: -1814065997740584274
+    second: sadsasdadsdas_280
+  - first:
+      213: 2842859722476007971
+    second: sadsasdadsdas_281
+  - first:
+      213: -289496933218195046
+    second: sadsasdadsdas_282
+  - first:
+      213: 8008746152015686669
+    second: sadsasdadsdas_283
+  - first:
+      213: 3798981600009096526
+    second: sadsasdadsdas_284
+  - first:
+      213: -7421731091101618783
+    second: sadsasdadsdas_285
+  - first:
+      213: -2687408543106229557
+    second: sadsasdadsdas_286
+  - first:
+      213: 709566820695691659
+    second: sadsasdadsdas_287
+  - first:
+      213: -6017413964559412448
+    second: sadsasdadsdas_288
+  - first:
+      213: 8870310073721014167
+    second: sadsasdadsdas_289
+  - first:
+      213: -4720561636702954926
+    second: sadsasdadsdas_290
+  - first:
+      213: -3904575815639500967
+    second: sadsasdadsdas_291
+  - first:
+      213: -2384947645279710450
+    second: sadsasdadsdas_292
+  - first:
+      213: 6555177135086840767
+    second: sadsasdadsdas_293
+  - first:
+      213: 496453169060702555
+    second: sadsasdadsdas_294
+  - first:
+      213: 1927075507921091306
+    second: sadsasdadsdas_295
+  - first:
+      213: 2969854019063142767
+    second: sadsasdadsdas_296
+  - first:
+      213: 7619796672547204618
+    second: sadsasdadsdas_297
+  - first:
+      213: 3754072163833296295
+    second: sadsasdadsdas_298
+  - first:
+      213: 3876888109119333541
+    second: sadsasdadsdas_299
+  - first:
+      213: -8878452787892922729
+    second: sadsasdadsdas_300
+  - first:
+      213: -5380995142527868882
+    second: sadsasdadsdas_301
+  - first:
+      213: 5967522382833986768
+    second: sadsasdadsdas_302
+  - first:
+      213: -9115196982827132718
+    second: sadsasdadsdas_303
+  - first:
+      213: -611675467344297088
+    second: sadsasdadsdas_304
+  - first:
+      213: -7939923028237446498
+    second: sadsasdadsdas_305
+  - first:
+      213: 8811596379764893944
+    second: sadsasdadsdas_306
+  - first:
+      213: -9012740552975855670
+    second: sadsasdadsdas_307
+  - first:
+      213: 8174819600041569052
+    second: sadsasdadsdas_308
+  - first:
+      213: 5175315618304229393
+    second: sadsasdadsdas_309
+  - first:
+      213: 8241833927416356050
+    second: sadsasdadsdas_310
+  - first:
+      213: -4715548329309385249
+    second: sadsasdadsdas_311
+  - first:
+      213: 1682100121403499290
+    second: sadsasdadsdas_312
+  - first:
+      213: -3961554857834061079
+    second: sadsasdadsdas_313
+  - first:
+      213: -2504723646908643035
+    second: sadsasdadsdas_314
+  - first:
+      213: -2294272694257720134
+    second: sadsasdadsdas_315
+  - first:
+      213: -1509520241815973678
+    second: sadsasdadsdas_316
+  - first:
+      213: -5062266273457233001
+    second: sadsasdadsdas_317
+  - first:
+      213: 5291790780320568250
+    second: sadsasdadsdas_318
+  - first:
+      213: -7700744792460969802
+    second: sadsasdadsdas_319
+  - first:
+      213: 8483195474283901408
+    second: sadsasdadsdas_320
+  - first:
+      213: 3544754549773079548
+    second: sadsasdadsdas_321
+  - first:
+      213: 1664496648855581842
+    second: sadsasdadsdas_322
+  - first:
+      213: -7561629897973133546
+    second: sadsasdadsdas_323
+  - first:
+      213: 299637508270960725
+    second: sadsasdadsdas_324
+  - first:
+      213: -50667139228742726
+    second: sadsasdadsdas_325
+  - first:
+      213: -4332738994399317738
+    second: sadsasdadsdas_326
+  - first:
+      213: 3266358431640919232
+    second: sadsasdadsdas_327
+  - first:
+      213: 2727193598891141426
+    second: sadsasdadsdas_328
+  - first:
+      213: 4069432423174482561
+    second: sadsasdadsdas_329
+  - first:
+      213: -3260631749124607246
+    second: sadsasdadsdas_330
+  - first:
+      213: -829545246576048848
+    second: sadsasdadsdas_331
+  - first:
+      213: -2645199272580150101
+    second: sadsasdadsdas_332
+  - first:
+      213: -8143510712601655150
+    second: sadsasdadsdas_333
+  - first:
+      213: 2811384469123559154
+    second: sadsasdadsdas_334
+  - first:
+      213: 1873999231691610509
+    second: sadsasdadsdas_335
+  - first:
+      213: -4461108548566642240
+    second: sadsasdadsdas_336
+  - first:
+      213: 38852462429268416
+    second: sadsasdadsdas_337
+  - first:
+      213: -8344288779956923566
+    second: sadsasdadsdas_338
+  - first:
+      213: 4340963918913884668
+    second: sadsasdadsdas_339
+  - first:
+      213: -2483555684732628965
+    second: sadsasdadsdas_340
+  - first:
+      213: 7739280582891785703
+    second: sadsasdadsdas_341
+  - first:
+      213: 4614264580438257526
+    second: sadsasdadsdas_342
+  - first:
+      213: -6189644205750582878
+    second: sadsasdadsdas_343
+  - first:
+      213: -3110260416492180533
+    second: sadsasdadsdas_344
+  - first:
+      213: 5293277617562615958
+    second: sadsasdadsdas_345
+  - first:
+      213: -1484520113423920627
+    second: sadsasdadsdas_346
+  - first:
+      213: -964408413580139757
+    second: sadsasdadsdas_347
+  - first:
+      213: 1689655427733053516
+    second: sadsasdadsdas_348
+  - first:
+      213: 2073768063618319073
+    second: sadsasdadsdas_349
+  - first:
+      213: -7395865407254169256
+    second: sadsasdadsdas_350
+  - first:
+      213: -3202588902550990666
+    second: sadsasdadsdas_351
+  - first:
+      213: -1319006112656076510
+    second: sadsasdadsdas_352
+  - first:
+      213: -8875986200548808781
+    second: sadsasdadsdas_353
+  - first:
+      213: -235523913498038982
+    second: sadsasdadsdas_354
+  - first:
+      213: 2305254496015135433
+    second: sadsasdadsdas_355
+  - first:
+      213: -1209036620914868620
+    second: sadsasdadsdas_356
+  - first:
+      213: -8515638979640659790
+    second: sadsasdadsdas_357
+  - first:
+      213: -8771428788263311201
+    second: sadsasdadsdas_358
+  - first:
+      213: -8235891092335141973
+    second: sadsasdadsdas_359
+  - first:
+      213: -6786549109856055441
+    second: sadsasdadsdas_360
+  - first:
+      213: 4110756089537723279
+    second: sadsasdadsdas_361
+  - first:
+      213: -3389700316526665598
+    second: sadsasdadsdas_362
+  - first:
+      213: 4681205364817991986
+    second: sadsasdadsdas_363
+  - first:
+      213: 3869887401816525300
+    second: sadsasdadsdas_364
+  - first:
+      213: -5935268461549073223
+    second: sadsasdadsdas_365
+  - first:
+      213: -6426453565311365025
+    second: sadsasdadsdas_366
+  - first:
+      213: 3829648746824900513
+    second: sadsasdadsdas_367
+  - first:
+      213: -1018136862061701446
+    second: sadsasdadsdas_368
+  - first:
+      213: 9014662220892035180
+    second: sadsasdadsdas_369
+  - first:
+      213: -6380339653801535116
+    second: sadsasdadsdas_370
+  - first:
+      213: -6136761242051405793
+    second: sadsasdadsdas_371
+  - first:
+      213: -3683339973104108712
+    second: sadsasdadsdas_372
+  - first:
+      213: 7941893696797008935
+    second: sadsasdadsdas_373
+  - first:
+      213: 6588747258979115499
+    second: sadsasdadsdas_374
+  - first:
+      213: -5433802614379285233
+    second: sadsasdadsdas_375
+  - first:
+      213: 1498907780369856991
+    second: sadsasdadsdas_376
+  - first:
+      213: -765171896655187993
+    second: sadsasdadsdas_377
+  - first:
+      213: 2288153053066603535
+    second: sadsasdadsdas_378
+  - first:
+      213: 3518103459889381126
+    second: sadsasdadsdas_379
+  - first:
+      213: 5318282800077682908
+    second: sadsasdadsdas_380
+  - first:
+      213: -4279429850539710454
+    second: sadsasdadsdas_381
+  - first:
+      213: -1861985658457409591
+    second: sadsasdadsdas_382
+  - first:
+      213: 2733762319313098413
+    second: sadsasdadsdas_383
+  - first:
+      213: -1274573504746145138
+    second: sadsasdadsdas_384
+  - first:
+      213: -1467931553988361030
+    second: sadsasdadsdas_385
+  - first:
+      213: -1172305303834735215
+    second: sadsasdadsdas_386
+  - first:
+      213: -8462278085516630433
+    second: sadsasdadsdas_387
+  - first:
+      213: -8506559168260259055
+    second: sadsasdadsdas_388
+  - first:
+      213: 5926895711821667545
+    second: sadsasdadsdas_389
+  - first:
+      213: 7069623397607272877
+    second: sadsasdadsdas_390
+  - first:
+      213: -5405632276682004688
+    second: sadsasdadsdas_391
+  - first:
+      213: 8343837717677981593
+    second: sadsasdadsdas_392
+  - first:
+      213: -4822926757143156425
+    second: sadsasdadsdas_393
+  - first:
+      213: -3803256802752973971
+    second: sadsasdadsdas_394
+  - first:
+      213: -7178170929996235795
+    second: sadsasdadsdas_395
+  - first:
+      213: 3975363046714580793
+    second: sadsasdadsdas_396
+  - first:
+      213: 7483122824759841689
+    second: sadsasdadsdas_397
+  - first:
+      213: -4378749562018970349
+    second: sadsasdadsdas_398
+  - first:
+      213: -3520035688030661624
+    second: sadsasdadsdas_399
+  - first:
+      213: 6497645804328785435
+    second: sadsasdadsdas_400
+  - first:
+      213: -1588042986742098571
+    second: sadsasdadsdas_401
+  - first:
+      213: 1748854737746903896
+    second: sadsasdadsdas_402
+  - first:
+      213: 1688104357255149028
+    second: sadsasdadsdas_403
+  - first:
+      213: 3054342731910950628
+    second: sadsasdadsdas_404
+  - first:
+      213: 2537364843451879917
+    second: sadsasdadsdas_405
+  - first:
+      213: -4426076694445551955
+    second: sadsasdadsdas_406
+  - first:
+      213: 637637179138736014
+    second: sadsasdadsdas_407
+  - first:
+      213: -3607225734730323290
+    second: sadsasdadsdas_408
+  - first:
+      213: 4577210805968776672
+    second: sadsasdadsdas_409
+  - first:
+      213: -9028898193758166285
+    second: sadsasdadsdas_410
+  - first:
+      213: -5223999512913209208
+    second: sadsasdadsdas_411
+  - first:
+      213: -4876611408977030891
+    second: sadsasdadsdas_412
+  - first:
+      213: 512093233891284738
+    second: sadsasdadsdas_413
+  - first:
+      213: -7084060539993521077
+    second: sadsasdadsdas_414
+  - first:
+      213: 7181154463097049184
+    second: sadsasdadsdas_415
+  - first:
+      213: 4923341375516565420
+    second: sadsasdadsdas_416
+  - first:
+      213: -3213995555665046792
+    second: sadsasdadsdas_417
+  - first:
+      213: 420438785341009248
+    second: sadsasdadsdas_418
+  - first:
+      213: 8019117418153333245
+    second: sadsasdadsdas_419
+  - first:
+      213: -211952930956975056
+    second: sadsasdadsdas_420
+  - first:
+      213: 5882955294563586087
+    second: sadsasdadsdas_421
+  - first:
+      213: -3817153638780936010
+    second: sadsasdadsdas_422
+  - first:
+      213: 1253353110502019718
+    second: sadsasdadsdas_423
+  - first:
+      213: -4695442049356761161
+    second: sadsasdadsdas_424
+  - first:
+      213: 4896944306609782607
+    second: sadsasdadsdas_425
+  - first:
+      213: -7526081776544895405
+    second: sadsasdadsdas_426
+  - first:
+      213: -8578984108107615812
+    second: sadsasdadsdas_427
+  - first:
+      213: -5596533222587933624
+    second: sadsasdadsdas_428
+  - first:
+      213: 2160412762880003370
+    second: sadsasdadsdas_429
+  - first:
+      213: -730134066672170760
+    second: sadsasdadsdas_430
+  - first:
+      213: 748582746120149607
+    second: sadsasdadsdas_431
+  - first:
+      213: -288625274524261906
+    second: sadsasdadsdas_432
+  - first:
+      213: 1920411344726230972
+    second: sadsasdadsdas_433
+  - first:
+      213: -5001737893354505594
+    second: sadsasdadsdas_434
+  - first:
+      213: -4674091420875115815
+    second: sadsasdadsdas_435
+  - first:
+      213: -5801905808763445659
+    second: sadsasdadsdas_436
+  - first:
+      213: -2545948479614281869
+    second: sadsasdadsdas_437
+  - first:
+      213: 4411605366139513073
+    second: sadsasdadsdas_438
+  - first:
+      213: 4885498256855042577
+    second: sadsasdadsdas_439
+  - first:
+      213: -6618847096693609864
+    second: sadsasdadsdas_440
+  - first:
+      213: 3337836186682422870
+    second: sadsasdadsdas_441
+  - first:
+      213: 7142765944537646162
+    second: sadsasdadsdas_442
+  - first:
+      213: 278037581052898519
+    second: sadsasdadsdas_443
+  - first:
+      213: -7133051087183355420
+    second: sadsasdadsdas_444
+  - first:
+      213: 5262710343890061546
+    second: sadsasdadsdas_445
+  - first:
+      213: 7476264583791367011
+    second: sadsasdadsdas_446
+  - first:
+      213: -8380661580305263989
+    second: sadsasdadsdas_447
+  - first:
+      213: 8299250208219337192
+    second: sadsasdadsdas_448
+  - first:
+      213: -8973912678018919404
+    second: sadsasdadsdas_449
+  - first:
+      213: -5400915540965352880
+    second: sadsasdadsdas_450
+  - first:
+      213: 5882480842311388160
+    second: sadsasdadsdas_451
+  - first:
+      213: 978276199268654437
+    second: sadsasdadsdas_452
+  - first:
+      213: -8335471715450663334
+    second: sadsasdadsdas_453
+  - first:
+      213: -7666629946874570772
+    second: sadsasdadsdas_454
+  - first:
+      213: 3203598237357814344
+    second: sadsasdadsdas_455
+  - first:
+      213: -2922581717364034015
+    second: sadsasdadsdas_456
+  - first:
+      213: -6720371085574898060
+    second: sadsasdadsdas_457
+  - first:
+      213: 6893545137570381749
+    second: sadsasdadsdas_458
+  - first:
+      213: -7958642770587689407
+    second: sadsasdadsdas_459
+  - first:
+      213: -1358960450528244382
+    second: sadsasdadsdas_460
+  - first:
+      213: 5084444235693090036
+    second: sadsasdadsdas_461
+  - first:
+      213: -8790962173684109709
+    second: sadsasdadsdas_462
+  - first:
+      213: 4256574121103983824
+    second: sadsasdadsdas_463
+  - first:
+      213: -991813621519088484
+    second: sadsasdadsdas_464
+  - first:
+      213: -2311120964225484243
+    second: sadsasdadsdas_465
+  - first:
+      213: 3281002476800909381
+    second: sadsasdadsdas_466
+  - first:
+      213: 878453237242497889
+    second: sadsasdadsdas_467
+  - first:
+      213: 587023141030788946
+    second: sadsasdadsdas_468
+  - first:
+      213: 8611266936593756435
+    second: sadsasdadsdas_469
+  - first:
+      213: 6216795954208206982
+    second: sadsasdadsdas_470
+  - first:
+      213: 7081201124708094976
+    second: sadsasdadsdas_471
+  - first:
+      213: -7089542757496860317
+    second: sadsasdadsdas_472
+  - first:
+      213: -3249111127518896507
+    second: sadsasdadsdas_473
+  - first:
+      213: 420909298248884572
+    second: sadsasdadsdas_474
+  - first:
+      213: -2892445865815391005
+    second: sadsasdadsdas_475
+  - first:
+      213: -1598910457120394190
+    second: sadsasdadsdas_476
+  - first:
+      213: 5292609460625246979
+    second: sadsasdadsdas_477
+  - first:
+      213: -7336632927734632473
+    second: sadsasdadsdas_478
+  - first:
+      213: 7676687853719108236
+    second: sadsasdadsdas_479
+  - first:
+      213: 98613510787684522
+    second: sadsasdadsdas_480
+  - first:
+      213: 2171575246417375638
+    second: sadsasdadsdas_481
+  - first:
+      213: 2078288228431919724
+    second: sadsasdadsdas_482
+  - first:
+      213: -5906255761917483572
+    second: sadsasdadsdas_483
+  - first:
+      213: 6724324413599098935
+    second: sadsasdadsdas_484
+  - first:
+      213: 9123368050069135443
+    second: sadsasdadsdas_485
+  - first:
+      213: -6497983876116895432
+    second: sadsasdadsdas_486
+  - first:
+      213: -846309799774067830
+    second: sadsasdadsdas_487
+  - first:
+      213: -131841657790915506
+    second: sadsasdadsdas_488
+  - first:
+      213: 6722185137631690581
+    second: sadsasdadsdas_489
+  - first:
+      213: -5485970267534406229
+    second: sadsasdadsdas_490
+  - first:
+      213: -3250102984449317017
+    second: sadsasdadsdas_491
+  - first:
+      213: 7434193862876657458
+    second: sadsasdadsdas_492
+  - first:
+      213: 5695755508418801792
+    second: sadsasdadsdas_493
+  - first:
+      213: -6215580396746451103
+    second: sadsasdadsdas_494
+  - first:
+      213: -217705128223147854
+    second: sadsasdadsdas_495
+  - first:
+      213: 1083914691104815890
+    second: sadsasdadsdas_496
+  - first:
+      213: 4085194433985004934
+    second: sadsasdadsdas_497
+  - first:
+      213: 2748721672023370800
+    second: sadsasdadsdas_498
+  - first:
+      213: -7603945106257745584
+    second: sadsasdadsdas_499
+  - first:
+      213: 5723658556019789089
+    second: sadsasdadsdas_500
+  - first:
+      213: 757528275614845307
+    second: sadsasdadsdas_501
+  - first:
+      213: 8571290528515948529
+    second: sadsasdadsdas_502
+  - first:
+      213: -1206532993141440340
+    second: sadsasdadsdas_503
+  - first:
+      213: 831042683484152943
+    second: sadsasdadsdas_504
+  - first:
+      213: -7192834683162543305
+    second: sadsasdadsdas_505
+  - first:
+      213: -1903159607304085818
+    second: sadsasdadsdas_506
+  - first:
+      213: 1972811495039309533
+    second: sadsasdadsdas_507
+  - first:
+      213: -5951579504050150124
+    second: sadsasdadsdas_508
+  - first:
+      213: 2936184783195453872
+    second: sadsasdadsdas_509
+  - first:
+      213: -7242145702964064842
+    second: sadsasdadsdas_510
+  - first:
+      213: -2329460289169996192
+    second: sadsasdadsdas_511
+  - first:
+      213: -2288617402314852381
+    second: sadsasdadsdas_512
+  - first:
+      213: -7386910170569657808
+    second: sadsasdadsdas_513
+  - first:
+      213: 5794103158616776586
+    second: sadsasdadsdas_514
+  - first:
+      213: 422537023265746233
+    second: sadsasdadsdas_515
+  - first:
+      213: 3027588687541025981
+    second: sadsasdadsdas_516
+  - first:
+      213: 1494268070330134854
+    second: sadsasdadsdas_517
+  - first:
+      213: 472079078874645433
+    second: sadsasdadsdas_518
+  - first:
+      213: 4484015629607185860
+    second: sadsasdadsdas_519
+  - first:
+      213: -7847526116298921126
+    second: sadsasdadsdas_520
+  - first:
+      213: 4959350838964052947
+    second: sadsasdadsdas_521
+  - first:
+      213: -4026309579145981404
+    second: sadsasdadsdas_522
+  - first:
+      213: -9157510917928210046
+    second: sadsasdadsdas_523
+  - first:
+      213: -1399613826164331288
+    second: sadsasdadsdas_524
+  - first:
+      213: -2445957796227760623
+    second: sadsasdadsdas_525
+  - first:
+      213: -3079069028748018842
+    second: sadsasdadsdas_526
+  - first:
+      213: 537531207459326391
+    second: sadsasdadsdas_527
+  - first:
+      213: -5007280445832850778
+    second: sadsasdadsdas_528
+  - first:
+      213: 5755451496870843667
+    second: sadsasdadsdas_529
+  - first:
+      213: 6710864833332255753
+    second: sadsasdadsdas_530
+  - first:
+      213: -768917619360892270
+    second: sadsasdadsdas_531
+  - first:
+      213: 5437830746473064343
+    second: sadsasdadsdas_532
+  - first:
+      213: -6283424540861236435
+    second: sadsasdadsdas_533
+  - first:
+      213: 8923788313924686187
+    second: sadsasdadsdas_534
+  - first:
+      213: 6491714646675981345
+    second: sadsasdadsdas_535
+  - first:
+      213: -7984185330481922855
+    second: sadsasdadsdas_536
+  - first:
+      213: -1075610106880095809
+    second: sadsasdadsdas_537
+  - first:
+      213: 8270064893964104109
+    second: sadsasdadsdas_538
+  - first:
+      213: -611231760433978197
+    second: sadsasdadsdas_539
+  - first:
+      213: -337794081024247259
+    second: sadsasdadsdas_540
+  - first:
+      213: -7725873088771163850
+    second: sadsasdadsdas_541
+  - first:
+      213: 3775720135915714708
+    second: sadsasdadsdas_542
+  - first:
+      213: 429290105066084193
+    second: sadsasdadsdas_543
+  - first:
+      213: -5433400310986944787
+    second: sadsasdadsdas_544
+  - first:
+      213: -48075391048218785
+    second: sadsasdadsdas_545
+  - first:
+      213: -1787182278815958317
+    second: sadsasdadsdas_546
+  - first:
+      213: -2114556213213942106
+    second: sadsasdadsdas_547
+  - first:
+      213: 1912902679307380102
+    second: sadsasdadsdas_548
+  - first:
+      213: -1497629631116882930
+    second: sadsasdadsdas_549
+  - first:
+      213: -3156074001039240440
+    second: sadsasdadsdas_550
+  - first:
+      213: 4582740341465702686
+    second: sadsasdadsdas_551
+  - first:
+      213: -2590530880686605613
+    second: sadsasdadsdas_552
+  - first:
+      213: -6579441478137673664
+    second: sadsasdadsdas_553
+  - first:
+      213: 8062401106072674246
+    second: sadsasdadsdas_554
+  - first:
+      213: 43610584335207615
+    second: sadsasdadsdas_555
+  - first:
+      213: 6729772896286067042
+    second: sadsasdadsdas_556
+  - first:
+      213: -3959072408581824392
+    second: sadsasdadsdas_557
+  - first:
+      213: 4186642507229902421
+    second: sadsasdadsdas_558
+  - first:
+      213: -5407826565423155609
+    second: sadsasdadsdas_559
+  - first:
+      213: -582570821616515147
+    second: sadsasdadsdas_560
+  - first:
+      213: -1242824349998631179
+    second: sadsasdadsdas_561
+  - first:
+      213: -1188012765910211657
+    second: sadsasdadsdas_562
+  - first:
+      213: 3394986284331310025
+    second: sadsasdadsdas_563
+  - first:
+      213: 3414050322906674329
+    second: sadsasdadsdas_564
+  - first:
+      213: -6765817945082541003
+    second: sadsasdadsdas_565
+  - first:
+      213: -3847928161373098217
+    second: sadsasdadsdas_566
+  - first:
+      213: 5051888508900283052
+    second: sadsasdadsdas_567
+  - first:
+      213: -5537473297627982807
+    second: sadsasdadsdas_568
+  - first:
+      213: -762271728628993138
+    second: sadsasdadsdas_569
+  - first:
+      213: -7001202704263159698
+    second: sadsasdadsdas_570
+  - first:
+      213: -5494378813504672054
+    second: sadsasdadsdas_571
+  - first:
+      213: 6624614803814589422
+    second: sadsasdadsdas_572
+  - first:
+      213: -1156557817605919600
+    second: sadsasdadsdas_573
+  - first:
+      213: 8279253880748296192
+    second: sadsasdadsdas_574
+  - first:
+      213: -6452690118291749816
+    second: sadsasdadsdas_575
+  - first:
+      213: 7497657071000030302
+    second: sadsasdadsdas_576
+  - first:
+      213: 4288034338515369354
+    second: sadsasdadsdas_577
+  - first:
+      213: -6209385954772088728
+    second: sadsasdadsdas_578
+  - first:
+      213: -2128173752932982811
+    second: sadsasdadsdas_579
+  - first:
+      213: 8895279582504531485
+    second: sadsasdadsdas_580
+  - first:
+      213: -3544596894612822914
+    second: sadsasdadsdas_581
+  - first:
+      213: 1683889760837009267
+    second: sadsasdadsdas_582
+  - first:
+      213: -7727795900826910432
+    second: sadsasdadsdas_583
+  - first:
+      213: -461974210591889794
+    second: sadsasdadsdas_584
+  - first:
+      213: -6901740428757956305
+    second: sadsasdadsdas_585
+  - first:
+      213: 1583489286996727421
+    second: sadsasdadsdas_586
+  - first:
+      213: 8640466044064118869
+    second: sadsasdadsdas_587
+  - first:
+      213: 7597049671278303376
+    second: sadsasdadsdas_588
+  - first:
+      213: 3571066634401091502
+    second: sadsasdadsdas_589
+  - first:
+      213: -1333512624271107199
+    second: sadsasdadsdas_590
+  - first:
+      213: 6550070388949996852
+    second: sadsasdadsdas_591
+  - first:
+      213: 3647082104578951302
+    second: sadsasdadsdas_592
+  - first:
+      213: -7883530938666336682
+    second: sadsasdadsdas_593
+  - first:
+      213: -3452728381865514141
+    second: sadsasdadsdas_594
+  - first:
+      213: -4554609830370748107
+    second: sadsasdadsdas_595
+  - first:
+      213: -3367604447788502177
+    second: sadsasdadsdas_596
+  - first:
+      213: -5623675738636490801
+    second: sadsasdadsdas_597
+  - first:
+      213: -5428372779808359386
+    second: sadsasdadsdas_598
+  - first:
+      213: 1519514507104560214
+    second: sadsasdadsdas_599
+  - first:
+      213: -9142547399933683589
+    second: sadsasdadsdas_600
+  - first:
+      213: 6309392522109618613
+    second: sadsasdadsdas_601
+  - first:
+      213: -7018795536722311736
+    second: sadsasdadsdas_602
+  - first:
+      213: -9167536169000656397
+    second: sadsasdadsdas_603
+  - first:
+      213: 490373998960572379
+    second: sadsasdadsdas_604
+  - first:
+      213: 3016542822398480937
+    second: sadsasdadsdas_605
+  - first:
+      213: 5001972707764697544
+    second: sadsasdadsdas_606
+  - first:
+      213: 4211586525451999823
+    second: sadsasdadsdas_607
+  - first:
+      213: -5824508197875245965
+    second: sadsasdadsdas_608
+  - first:
+      213: 7715053722477480691
+    second: sadsasdadsdas_609
+  - first:
+      213: -8239357243273098837
+    second: sadsasdadsdas_610
+  - first:
+      213: 3692770086309484043
+    second: sadsasdadsdas_611
+  - first:
+      213: -2286566957514165035
+    second: sadsasdadsdas_612
+  - first:
+      213: 8629807500441663929
+    second: sadsasdadsdas_613
+  - first:
+      213: 1818174390118275861
+    second: sadsasdadsdas_614
+  - first:
+      213: -4780721791161202147
+    second: sadsasdadsdas_615
+  - first:
+      213: 231608687282427512
+    second: sadsasdadsdas_616
+  - first:
+      213: 6797388114224677675
+    second: sadsasdadsdas_617
+  - first:
+      213: -1743322686187470247
+    second: sadsasdadsdas_618
+  - first:
+      213: 187007096672969559
+    second: sadsasdadsdas_619
+  - first:
+      213: 3369766616974222372
+    second: sadsasdadsdas_620
+  - first:
+      213: -2130029037681584633
+    second: sadsasdadsdas_621
+  - first:
+      213: 3063478663010355849
+    second: sadsasdadsdas_622
+  - first:
+      213: 3996377182545680828
+    second: sadsasdadsdas_623
+  - first:
+      213: 7894833274743974932
+    second: sadsasdadsdas_624
+  - first:
+      213: -4836464930641580004
+    second: sadsasdadsdas_625
+  - first:
+      213: 8947126702714924828
+    second: sadsasdadsdas_626
+  - first:
+      213: 6010792619460496563
+    second: sadsasdadsdas_627
+  - first:
+      213: -2660895718836905455
+    second: sadsasdadsdas_628
+  - first:
+      213: 3928700906630266420
+    second: sadsasdadsdas_629
+  - first:
+      213: 250099487282686034
+    second: sadsasdadsdas_630
+  - first:
+      213: -9172705481876790832
+    second: sadsasdadsdas_631
+  - first:
+      213: 124600741495896145
+    second: sadsasdadsdas_632
+  - first:
+      213: 2353559376157882086
+    second: sadsasdadsdas_633
+  - first:
+      213: 3618115004083020297
+    second: sadsasdadsdas_634
+  - first:
+      213: 952796487552169820
+    second: sadsasdadsdas_635
+  - first:
+      213: 267665509444640606
+    second: sadsasdadsdas_636
+  - first:
+      213: -6814635074999629955
+    second: sadsasdadsdas_637
+  - first:
+      213: -4479542191049465087
+    second: sadsasdadsdas_638
+  - first:
+      213: 8939170197551034809
+    second: sadsasdadsdas_639
+  - first:
+      213: -4971112197547087749
+    second: sadsasdadsdas_640
+  - first:
+      213: 800254407069265914
+    second: sadsasdadsdas_641
+  - first:
+      213: -8447063064442001594
+    second: sadsasdadsdas_642
+  - first:
+      213: 5001557737977255543
+    second: sadsasdadsdas_643
+  - first:
+      213: -1525192930046769241
+    second: sadsasdadsdas_644
+  - first:
+      213: 8213888231815283643
+    second: sadsasdadsdas_645
+  - first:
+      213: 2383034834911887611
+    second: sadsasdadsdas_646
+  - first:
+      213: -5537324151593066730
+    second: sadsasdadsdas_647
+  - first:
+      213: 9060160767049288851
+    second: sadsasdadsdas_648
+  - first:
+      213: 470678060171025678
+    second: sadsasdadsdas_649
+  - first:
+      213: -1781352886210418168
+    second: sadsasdadsdas_650
+  - first:
+      213: 910537411096917017
+    second: sadsasdadsdas_651
+  - first:
+      213: -5976903538831454141
+    second: sadsasdadsdas_652
+  - first:
+      213: 2343219430653834971
+    second: sadsasdadsdas_653
+  - first:
+      213: -4423513565085662809
+    second: sadsasdadsdas_654
+  - first:
+      213: 5300969982628829872
+    second: sadsasdadsdas_655
+  - first:
+      213: -1682212741553420886
+    second: sadsasdadsdas_656
+  - first:
+      213: -6062798582226382244
+    second: sadsasdadsdas_657
+  - first:
+      213: -4722093611469744822
+    second: sadsasdadsdas_658
+  - first:
+      213: -4992009252610867479
+    second: sadsasdadsdas_659
+  - first:
+      213: -3662112540995982644
+    second: sadsasdadsdas_660
+  - first:
+      213: 3104917940527102327
+    second: sadsasdadsdas_661
+  - first:
+      213: -4666837890759753851
+    second: sadsasdadsdas_662
+  - first:
+      213: 469833174924225130
+    second: sadsasdadsdas_663
+  - first:
+      213: -4005227803979322976
+    second: sadsasdadsdas_664
+  - first:
+      213: 7787425280769164304
+    second: sadsasdadsdas_665
+  - first:
+      213: -1938424139611802508
+    second: sadsasdadsdas_666
+  - first:
+      213: 2136091303427643215
+    second: sadsasdadsdas_667
+  - first:
+      213: 411027311819896841
+    second: sadsasdadsdas_668
+  - first:
+      213: 3343026656379604499
+    second: sadsasdadsdas_669
+  - first:
+      213: 3389764644977036850
+    second: sadsasdadsdas_670
+  - first:
+      213: 4015181198190476538
+    second: sadsasdadsdas_671
+  - first:
+      213: 1309886204704754165
+    second: sadsasdadsdas_672
+  - first:
+      213: -1978695777572608801
+    second: sadsasdadsdas_673
+  - first:
+      213: 1379262892821599768
+    second: sadsasdadsdas_674
+  - first:
+      213: 7591454433670542022
+    second: sadsasdadsdas_675
+  - first:
+      213: 7662820695749145146
+    second: sadsasdadsdas_676
+  - first:
+      213: -4215405230964977981
+    second: sadsasdadsdas_677
+  - first:
+      213: -5754277163809546577
+    second: sadsasdadsdas_678
+  - first:
+      213: -1565694271838452966
+    second: sadsasdadsdas_679
+  - first:
+      213: -2287511755483075489
+    second: sadsasdadsdas_680
+  - first:
+      213: 173628229770007194
+    second: sadsasdadsdas_681
+  - first:
+      213: 629506620360026561
+    second: sadsasdadsdas_682
+  - first:
+      213: 2923083434543458598
+    second: sadsasdadsdas_683
+  - first:
+      213: -4260653358689632436
+    second: sadsasdadsdas_684
+  - first:
+      213: 8749497160551275603
+    second: sadsasdadsdas_685
+  - first:
+      213: 5032499993429074023
+    second: sadsasdadsdas_686
+  - first:
+      213: 640322410007880667
+    second: sadsasdadsdas_687
+  - first:
+      213: -521130123096183263
+    second: sadsasdadsdas_688
+  - first:
+      213: -7960281169912805133
+    second: sadsasdadsdas_689
+  - first:
+      213: 3989029776677980754
+    second: sadsasdadsdas_690
+  - first:
+      213: 3092306635027579578
+    second: sadsasdadsdas_691
+  - first:
+      213: -6118257290241158596
+    second: sadsasdadsdas_692
+  - first:
+      213: -7062123617883629084
+    second: sadsasdadsdas_693
+  - first:
+      213: -6232843201723968285
+    second: sadsasdadsdas_694
+  - first:
+      213: -2990608467858881886
+    second: sadsasdadsdas_695
+  - first:
+      213: 3362188996786315433
+    second: sadsasdadsdas_696
+  - first:
+      213: -6001857031697445066
+    second: sadsasdadsdas_697
+  - first:
+      213: 8010230760171376580
+    second: sadsasdadsdas_698
+  - first:
+      213: 3863781220742411256
+    second: sadsasdadsdas_699
+  - first:
+      213: -7921030897504620112
+    second: sadsasdadsdas_700
+  - first:
+      213: 3807630998571562106
+    second: sadsasdadsdas_701
+  - first:
+      213: -2914057506753459594
+    second: sadsasdadsdas_702
+  - first:
+      213: 7410775033634985044
+    second: sadsasdadsdas_703
+  - first:
+      213: -1787669113839197612
+    second: sadsasdadsdas_704
+  - first:
+      213: 824237241932513750
+    second: sadsasdadsdas_705
+  - first:
+      213: 5587879209729873562
+    second: sadsasdadsdas_706
+  - first:
+      213: -3439703733390416820
+    second: sadsasdadsdas_707
+  - first:
+      213: -7257253775286275390
+    second: sadsasdadsdas_708
+  - first:
+      213: -4802277661962980155
+    second: sadsasdadsdas_709
+  - first:
+      213: 7941948323848442644
+    second: sadsasdadsdas_710
+  - first:
+      213: 4309262572633603317
+    second: sadsasdadsdas_711
+  - first:
+      213: 6931986051319722463
+    second: sadsasdadsdas_712
+  - first:
+      213: -6931883311978135953
+    second: sadsasdadsdas_713
+  - first:
+      213: 3321126297691792631
+    second: sadsasdadsdas_714
+  - first:
+      213: 7919180730810200218
+    second: sadsasdadsdas_715
+  - first:
+      213: -1260102200707140519
+    second: sadsasdadsdas_716
+  - first:
+      213: -7282087624708716555
+    second: sadsasdadsdas_717
+  - first:
+      213: -6200716396860696622
+    second: sadsasdadsdas_718
+  - first:
+      213: 550041818733976651
+    second: sadsasdadsdas_719
+  - first:
+      213: 8883671395799988481
+    second: sadsasdadsdas_720
+  - first:
+      213: 3648326580736843638
+    second: sadsasdadsdas_721
+  - first:
+      213: -6538950245474447532
+    second: sadsasdadsdas_722
+  - first:
+      213: -5001980002208262152
+    second: sadsasdadsdas_723
+  - first:
+      213: -694195152405448813
+    second: sadsasdadsdas_724
+  - first:
+      213: -2193047320421011631
+    second: sadsasdadsdas_725
+  - first:
+      213: 8930433265238529673
+    second: sadsasdadsdas_726
+  - first:
+      213: -5149755984854501885
+    second: sadsasdadsdas_727
+  - first:
+      213: -8049655080655537678
+    second: sadsasdadsdas_728
+  - first:
+      213: 6092579787480626818
+    second: sadsasdadsdas_729
+  - first:
+      213: -3273259030766955851
+    second: sadsasdadsdas_730
+  - first:
+      213: 1962006468066818292
+    second: sadsasdadsdas_731
+  - first:
+      213: -2843742806321910659
+    second: sadsasdadsdas_732
+  - first:
+      213: 3393230383278629354
+    second: sadsasdadsdas_733
+  - first:
+      213: -9024115753368606614
+    second: sadsasdadsdas_734
+  - first:
+      213: -1852640116342550971
+    second: sadsasdadsdas_735
+  - first:
+      213: 6814121331185864270
+    second: sadsasdadsdas_736
+  - first:
+      213: 3546752308178369440
+    second: sadsasdadsdas_737
+  - first:
+      213: 6447504078497743402
+    second: sadsasdadsdas_738
+  - first:
+      213: -4177770255024573755
+    second: sadsasdadsdas_739
+  - first:
+      213: -2596066539061608570
+    second: sadsasdadsdas_740
+  - first:
+      213: -8753762218171697926
+    second: sadsasdadsdas_741
+  - first:
+      213: -7569344839850642885
+    second: sadsasdadsdas_742
+  - first:
+      213: -1979132219115513868
+    second: sadsasdadsdas_743
+  - first:
+      213: -2071785637303076056
+    second: sadsasdadsdas_744
+  - first:
+      213: -2991910796857665478
+    second: sadsasdadsdas_745
+  - first:
+      213: -6335806907346945549
+    second: sadsasdadsdas_746
+  - first:
+      213: -1539895365181029222
+    second: sadsasdadsdas_747
+  - first:
+      213: -5528712392289037228
+    second: sadsasdadsdas_748
+  - first:
+      213: 3392109749551078917
+    second: sadsasdadsdas_749
+  - first:
+      213: 1840591928831601769
+    second: sadsasdadsdas_750
+  - first:
+      213: -6399622629247401451
+    second: sadsasdadsdas_751
+  - first:
+      213: 2457464394449952584
+    second: sadsasdadsdas_752
+  - first:
+      213: -3965080489467472532
+    second: sadsasdadsdas_753
+  - first:
+      213: -6913657839711336953
+    second: sadsasdadsdas_754
+  - first:
+      213: -2128168486893244219
+    second: sadsasdadsdas_755
+  - first:
+      213: 328939489680222552
+    second: sadsasdadsdas_756
+  - first:
+      213: -7130220541879903112
+    second: sadsasdadsdas_757
+  - first:
+      213: -3500741046819999779
+    second: sadsasdadsdas_758
+  - first:
+      213: -7590076707784981672
+    second: sadsasdadsdas_759
+  - first:
+      213: -4564806563224067418
+    second: sadsasdadsdas_760
+  - first:
+      213: 400757276668418840
+    second: sadsasdadsdas_761
+  - first:
+      213: 8337038622363960546
+    second: sadsasdadsdas_762
+  - first:
+      213: -7647035500343848300
+    second: sadsasdadsdas_763
+  - first:
+      213: 508757596789262075
+    second: sadsasdadsdas_764
+  - first:
+      213: 9017105168296997534
+    second: sadsasdadsdas_765
+  - first:
+      213: -6521508467228959162
+    second: sadsasdadsdas_766
+  - first:
+      213: 3920854177897471889
+    second: sadsasdadsdas_767
+  - first:
+      213: -9010292408770014125
+    second: sadsasdadsdas_768
+  - first:
+      213: 8363684982466781421
+    second: sadsasdadsdas_769
+  - first:
+      213: -7637603456062002315
+    second: sadsasdadsdas_770
+  - first:
+      213: 2134418622268401504
+    second: sadsasdadsdas_771
+  - first:
+      213: 583580745920573140
+    second: sadsasdadsdas_772
+  - first:
+      213: 3106906303441215350
+    second: sadsasdadsdas_773
+  - first:
+      213: -4194647770838375994
+    second: sadsasdadsdas_774
+  - first:
+      213: -3113093589559448178
+    second: sadsasdadsdas_775
+  - first:
+      213: -4434609179192983086
+    second: sadsasdadsdas_776
+  - first:
+      213: -2440593800015472190
+    second: sadsasdadsdas_777
+  - first:
+      213: 7768009382152439338
+    second: sadsasdadsdas_778
+  - first:
+      213: 7421557705303674225
+    second: sadsasdadsdas_779
+  - first:
+      213: 4250321389288135077
+    second: sadsasdadsdas_780
+  - first:
+      213: -1325676386997242099
+    second: sadsasdadsdas_781
+  - first:
+      213: -8964834693979334699
+    second: sadsasdadsdas_782
+  - first:
+      213: -2392556899930452781
+    second: sadsasdadsdas_783
+  - first:
+      213: -8589261356261791767
+    second: sadsasdadsdas_784
+  - first:
+      213: -2726624396620800047
+    second: sadsasdadsdas_785
+  - first:
+      213: 6395414713047019496
+    second: sadsasdadsdas_786
+  - first:
+      213: 1219089466717621151
+    second: sadsasdadsdas_787
+  - first:
+      213: 5377853462471133364
+    second: sadsasdadsdas_788
+  - first:
+      213: 7409308435915014146
+    second: sadsasdadsdas_789
+  - first:
+      213: -4383193067389583272
+    second: sadsasdadsdas_790
+  - first:
+      213: -1896786096582014559
+    second: sadsasdadsdas_791
+  - first:
+      213: -3476357964707277393
+    second: sadsasdadsdas_792
+  - first:
+      213: 8275079456120173391
+    second: sadsasdadsdas_793
+  - first:
+      213: 6209207747800133371
+    second: sadsasdadsdas_794
+  - first:
+      213: -5330825498269123592
+    second: sadsasdadsdas_795
+  - first:
+      213: -450905008411884755
+    second: sadsasdadsdas_796
+  - first:
+      213: 4863775669384469086
+    second: sadsasdadsdas_797
+  - first:
+      213: 126496045836820502
+    second: sadsasdadsdas_798
+  - first:
+      213: 8501156877875166830
+    second: sadsasdadsdas_799
+  - first:
+      213: 3231601882100502422
+    second: sadsasdadsdas_800
+  - first:
+      213: 458684082313872440
+    second: sadsasdadsdas_801
+  - first:
+      213: 1799511574960779558
+    second: sadsasdadsdas_802
+  - first:
+      213: -5317738919158435464
+    second: sadsasdadsdas_803
+  - first:
+      213: -3754889360401300447
+    second: sadsasdadsdas_804
+  - first:
+      213: 47856978230272030
+    second: sadsasdadsdas_805
+  - first:
+      213: -923542583726356470
+    second: sadsasdadsdas_806
+  - first:
+      213: 180668974712675151
+    second: sadsasdadsdas_807
+  - first:
+      213: -8405879986621379859
+    second: sadsasdadsdas_808
+  - first:
+      213: -3341345466033819920
+    second: sadsasdadsdas_809
+  - first:
+      213: -7188615413910811369
+    second: sadsasdadsdas_810
+  - first:
+      213: -6535425785636198944
+    second: sadsasdadsdas_811
+  - first:
+      213: 8629500256460636255
+    second: sadsasdadsdas_812
+  - first:
+      213: -3329267286289984488
+    second: sadsasdadsdas_813
+  - first:
+      213: 7336960581397719343
+    second: sadsasdadsdas_814
+  - first:
+      213: 706778254499796882
+    second: sadsasdadsdas_815
+  - first:
+      213: 5213480117927060877
+    second: sadsasdadsdas_816
+  - first:
+      213: 7541443133683707095
+    second: sadsasdadsdas_817
+  - first:
+      213: -7468463590966931994
+    second: sadsasdadsdas_818
+  - first:
+      213: -8657830202995635454
+    second: sadsasdadsdas_819
+  - first:
+      213: 8799877166321976312
+    second: sadsasdadsdas_820
+  - first:
+      213: -4465505140255486134
+    second: sadsasdadsdas_821
+  - first:
+      213: 793839099098179684
+    second: sadsasdadsdas_822
+  - first:
+      213: 5095894829890417895
+    second: sadsasdadsdas_823
+  - first:
+      213: -4815914748373766838
+    second: sadsasdadsdas_824
+  - first:
+      213: -1784636282011664540
+    second: sadsasdadsdas_825
+  - first:
+      213: 641438328104269308
+    second: sadsasdadsdas_826
+  - first:
+      213: -2290815028061799804
+    second: sadsasdadsdas_827
+  - first:
+      213: -7029591406085677994
+    second: sadsasdadsdas_828
+  - first:
+      213: 341834623301474874
+    second: sadsasdadsdas_829
+  - first:
+      213: -8209795498721753576
+    second: sadsasdadsdas_830
+  - first:
+      213: -3409291834646404332
+    second: sadsasdadsdas_831
+  - first:
+      213: -8477622848600618984
+    second: sadsasdadsdas_832
+  - first:
+      213: 2484258940498033806
+    second: sadsasdadsdas_833
+  - first:
+      213: -3997803528088041918
+    second: sadsasdadsdas_834
+  - first:
+      213: -109067873027619721
+    second: sadsasdadsdas_835
+  - first:
+      213: -3035738607633999727
+    second: sadsasdadsdas_836
+  - first:
+      213: -5568058566659242292
+    second: sadsasdadsdas_837
+  - first:
+      213: 4749046915649817043
+    second: sadsasdadsdas_838
+  - first:
+      213: -6431040665817063873
+    second: sadsasdadsdas_839
+  - first:
+      213: 2970061427717902734
+    second: sadsasdadsdas_840
+  - first:
+      213: -5568638582236968094
+    second: sadsasdadsdas_841
+  - first:
+      213: -2948041899489283847
+    second: sadsasdadsdas_842
+  - first:
+      213: -7732567279443491701
+    second: sadsasdadsdas_843
+  - first:
+      213: -5132290312859648465
+    second: sadsasdadsdas_844
+  - first:
+      213: -3668144841063853480
+    second: sadsasdadsdas_845
+  - first:
+      213: -3672125512680772952
+    second: sadsasdadsdas_846
+  - first:
+      213: 3341498900629588507
+    second: sadsasdadsdas_847
+  - first:
+      213: 5285416048454446424
+    second: sadsasdadsdas_848
+  - first:
+      213: -4721868435530475212
+    second: sadsasdadsdas_849
+  - first:
+      213: -8210956011880302907
+    second: sadsasdadsdas_850
+  - first:
+      213: -1424539258133387013
+    second: sadsasdadsdas_851
+  - first:
+      213: -2788229688845612880
+    second: sadsasdadsdas_852
+  - first:
+      213: 9000617480078520530
+    second: sadsasdadsdas_853
+  - first:
+      213: 8721315917321276952
+    second: sadsasdadsdas_854
+  - first:
+      213: -1458800706510202762
+    second: sadsasdadsdas_855
+  - first:
+      213: -654677480519092488
+    second: sadsasdadsdas_856
+  - first:
+      213: -3257023878047477598
+    second: sadsasdadsdas_857
+  - first:
+      213: 3060359534408009150
+    second: sadsasdadsdas_858
+  - first:
+      213: -5394809467039321987
+    second: sadsasdadsdas_859
+  - first:
+      213: -5640214105886762729
+    second: sadsasdadsdas_860
+  - first:
+      213: -4703368832083229891
+    second: sadsasdadsdas_861
+  - first:
+      213: 4396380496583706315
+    second: sadsasdadsdas_862
+  - first:
+      213: 4687319928198398875
+    second: sadsasdadsdas_863
+  - first:
+      213: -9153405911024284333
+    second: sadsasdadsdas_864
+  - first:
+      213: -376783617427635253
+    second: sadsasdadsdas_865
+  - first:
+      213: 7054047730298458092
+    second: sadsasdadsdas_866
+  - first:
+      213: -2673997754652611468
+    second: sadsasdadsdas_867
+  - first:
+      213: 9073057135504500715
+    second: sadsasdadsdas_868
+  - first:
+      213: 2439862445460254282
+    second: sadsasdadsdas_869
+  - first:
+      213: 3522854689885860730
+    second: sadsasdadsdas_870
+  - first:
+      213: -5039165023668373003
+    second: sadsasdadsdas_871
+  - first:
+      213: 4229704115510360232
+    second: sadsasdadsdas_872
+  - first:
+      213: -1836226389175535519
+    second: sadsasdadsdas_873
+  - first:
+      213: 8157005811914923078
+    second: sadsasdadsdas_874
+  - first:
+      213: 6703577112626852525
+    second: sadsasdadsdas_875
+  - first:
+      213: -4683627262138487067
+    second: sadsasdadsdas_876
+  - first:
+      213: 7933589913260274505
+    second: sadsasdadsdas_877
+  - first:
+      213: 3740827059008248937
+    second: sadsasdadsdas_878
+  - first:
+      213: 4328008961795184131
+    second: sadsasdadsdas_879
+  - first:
+      213: 6996987506024307232
+    second: sadsasdadsdas_880
+  - first:
+      213: 8685181639018514306
+    second: sadsasdadsdas_881
+  - first:
+      213: -1589414014691550749
+    second: sadsasdadsdas_882
+  - first:
+      213: 8936511506707969298
+    second: sadsasdadsdas_883
+  - first:
+      213: 4008098673270110730
+    second: sadsasdadsdas_884
+  - first:
+      213: -7366139589316256937
+    second: sadsasdadsdas_885
+  - first:
+      213: 3853601117059383613
+    second: sadsasdadsdas_886
+  - first:
+      213: 5168274301661021465
+    second: sadsasdadsdas_887
+  - first:
+      213: 671932256079868027
+    second: sadsasdadsdas_888
+  - first:
+      213: 2412647678218299928
+    second: sadsasdadsdas_889
+  - first:
+      213: -6552961986058448995
+    second: sadsasdadsdas_890
+  - first:
+      213: 8457166845813440537
+    second: sadsasdadsdas_891
+  - first:
+      213: 306391861361269027
+    second: sadsasdadsdas_892
+  - first:
+      213: -8191063326295109072
+    second: sadsasdadsdas_893
+  - first:
+      213: -5104218464779264787
+    second: sadsasdadsdas_894
+  - first:
+      213: 3029592015745750526
+    second: sadsasdadsdas_895
+  - first:
+      213: -6961356602679241805
+    second: sadsasdadsdas_896
+  - first:
+      213: -6006153653358120706
+    second: sadsasdadsdas_897
+  - first:
+      213: 781471262921310739
+    second: sadsasdadsdas_898
+  - first:
+      213: 8261049608420170284
+    second: sadsasdadsdas_899
+  - first:
+      213: -3263100354864079346
+    second: sadsasdadsdas_900
+  - first:
+      213: 2256182613010018156
+    second: sadsasdadsdas_901
+  - first:
+      213: -5649510460627462512
+    second: sadsasdadsdas_902
+  - first:
+      213: 8350930409007902786
+    second: sadsasdadsdas_903
+  - first:
+      213: 4851271935915726044
+    second: sadsasdadsdas_904
+  - first:
+      213: -5051319137007569207
+    second: sadsasdadsdas_905
+  - first:
+      213: 7029089742685610610
+    second: sadsasdadsdas_906
+  - first:
+      213: -1950169846566894895
+    second: sadsasdadsdas_907
+  - first:
+      213: -1646506589389594907
+    second: sadsasdadsdas_908
+  - first:
+      213: 3781051136661109205
+    second: sadsasdadsdas_909
+  - first:
+      213: 4947128498770316194
+    second: sadsasdadsdas_910
+  - first:
+      213: 8763859849909424150
+    second: sadsasdadsdas_911
+  - first:
+      213: -3504576017027631846
+    second: sadsasdadsdas_912
+  - first:
+      213: -466493466302214566
+    second: sadsasdadsdas_913
+  - first:
+      213: -3133124704049307982
+    second: sadsasdadsdas_914
+  - first:
+      213: -3239595506955020337
+    second: sadsasdadsdas_915
+  - first:
+      213: 1591713053808802593
+    second: sadsasdadsdas_916
+  - first:
+      213: -1571090587154938628
+    second: sadsasdadsdas_917
+  - first:
+      213: -1905305134078084304
+    second: sadsasdadsdas_918
+  - first:
+      213: 309577686643763126
+    second: sadsasdadsdas_919
+  - first:
+      213: -5364770376554412504
+    second: sadsasdadsdas_920
+  - first:
+      213: 7575498990537662618
+    second: sadsasdadsdas_921
+  - first:
+      213: 3291525113525707439
+    second: sadsasdadsdas_922
+  - first:
+      213: 7035396408858983375
+    second: sadsasdadsdas_923
+  - first:
+      213: 7985189909478224408
+    second: sadsasdadsdas_924
+  - first:
+      213: -2960019696937250277
+    second: sadsasdadsdas_925
+  - first:
+      213: -700724001687031168
+    second: sadsasdadsdas_926
+  - first:
+      213: 1461261003007209500
+    second: sadsasdadsdas_927
+  - first:
+      213: 854581788088292085
+    second: sadsasdadsdas_928
+  - first:
+      213: -2870141901073581795
+    second: sadsasdadsdas_929
+  - first:
+      213: 6372682460702437776
+    second: sadsasdadsdas_930
+  - first:
+      213: -4400034065762320366
+    second: sadsasdadsdas_931
+  - first:
+      213: 2295936655992737552
+    second: sadsasdadsdas_932
+  - first:
+      213: -1050776743439523693
+    second: sadsasdadsdas_933
+  - first:
+      213: -6635419560223145225
+    second: sadsasdadsdas_934
+  - first:
+      213: -1641641815788303187
+    second: sadsasdadsdas_935
+  - first:
+      213: 680718613006760037
+    second: sadsasdadsdas_936
+  - first:
+      213: -3371304150594384090
+    second: sadsasdadsdas_937
+  - first:
+      213: 608986192725727756
+    second: sadsasdadsdas_938
+  - first:
+      213: -663432779722472823
+    second: sadsasdadsdas_939
+  - first:
+      213: -2986552029296943363
+    second: sadsasdadsdas_940
+  - first:
+      213: 5538038517088127098
+    second: sadsasdadsdas_941
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sadsasdadsdas_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 900
+        width: 37
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be088097574949030800000000000000
+      internalID: 3500586042636402923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 900
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3a6f68243f5ada0800000000000000
+      internalID: -5934069466933058615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 900
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b25676f0b3f2e80800000000000000
+      internalID: -8201271459073152165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 897
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0458e5119e41307f0800000000000000
+      internalID: -647650930159876800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 854
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c63b791f87f0b340800000000000000
+      internalID: 4877670590422136512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 854
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e8829a76dad1520800000000000000
+      internalID: 2674484414459186811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_6
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 855
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3e7fc1986464880800000000000000
+      internalID: -8627130481471134768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_7
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 854
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304df29fb7163e640800000000000000
+      internalID: 5108033587457807363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 853
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b38598c817b3ec10800000000000000
+      internalID: 2081708769847641013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_9
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 852
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553f8711cb03f33f0800000000000000
+      internalID: -918962214655167659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_10
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 852
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a07a73fa07edcab0800000000000000
+      internalID: -4986075178208694110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 852
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640b45a5737fc2ec0800000000000000
+      internalID: -3590222985810366394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_12
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 851
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9c01236eef25120800000000000000
+      internalID: 2401261815977789899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_13
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 851
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5813588c0bc0c02a0800000000000000
+      internalID: -6770022186426748539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_14
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 851
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c183378e5bc42340800000000000000
+      internalID: 4838215506558419392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 819
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e28311462e50b7d0800000000000000
+      internalID: -2904718241260403995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_16
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 814
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72689050836d1b2a0800000000000000
+      internalID: -6723357232596416985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_17
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 816
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d077a8a100e84d4a0800000000000000
+      internalID: -6569469825330284787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_18
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 817
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392c83e295b259f00800000000000000
+      internalID: 1122851344126362259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 816
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7edc0c2d02c71e0800000000000000
+      internalID: -2198846428513703973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_20
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 814
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af90701ef049e640800000000000000
+      internalID: 5109686712170225568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_21
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 776
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d49ce34cd4d5d90800000000000000
+      internalID: -7107439131658466020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_22
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 777
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f07b51a1ed163e0800000000000000
+      internalID: -2062122950744141943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_23
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 776
+        width: 68
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc19ef67879e83550800000000000000
+      internalID: 6140914795521413583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_24
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 773
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e511d9ab241c4b0800000000000000
+      internalID: -5421979107110855109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_25
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 745
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc1c0a06c239cdd0800000000000000
+      internalID: -2465383494855156523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_26
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 738
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c8efcc5bbf25050800000000000000
+      internalID: 5787965229371395087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_27
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 737
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317a1dfb4bde8ec00800000000000000
+      internalID: 930254683620091667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_28
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 740
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0272ccbf4cdfb010800000000000000
+      internalID: 1206925460185969163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_29
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 736
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc151af54c2421e0800000000000000
+      internalID: -2223603636954129225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_30
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 736
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b397244e2fdae5860800000000000000
+      internalID: 7520639686478559547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_31
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 734
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fb37b11561bd230800000000000000
+      internalID: 3664547259404762898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_32
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 736
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fa3fbadd00b51e0800000000000000
+      internalID: -2208170240222449880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_33
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 734
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d417ef0574ac240800000000000000
+      internalID: 4812737564990590316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_34
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 738
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9653cd1fab4e770800000000000000
+      internalID: 8639235533147826603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_35
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 704
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97a30841a44c8630800000000000000
+      internalID: 3930592034276222875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_36
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 704
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9869b9cad7a019940800000000000000
+      internalID: 5301029771274851977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_37
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 703
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e595e4b85466070800000000000000
+      internalID: 8099237444489666065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_38
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 703
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04be929df5605d10800000000000000
+      internalID: 2112300364997768206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_39
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 702
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42ef159c22632d30800000000000000
+      internalID: 4405472804118454861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_40
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 701
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f513b80c8a347cc60800000000000000
+      internalID: 7838308068525551967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_41
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 701
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8f2d410b1e1a270800000000000000
+      internalID: 8260131337954064561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_42
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 701
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53741b76de2e21720800000000000000
+      internalID: 2815562226334779189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_43
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 719
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5324f6e8cd2113ab0800000000000000
+      internalID: -5030218570304372171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_44
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 671
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a849e86b86338d0800000000000000
+      internalID: -2867833404419437980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_45
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 671
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37ac86de3b3a8fa0800000000000000
+      internalID: -5797756429212539073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_46
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 667
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabdc2bc0c67ea430800000000000000
+      internalID: 3796102106334419884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_47
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 696
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2741c9b1e26defd60800000000000000
+      internalID: 7926007887738705010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_48
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 669
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c64a017d437b0d0800000000000000
+      internalID: -3407196494780666804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_49
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 665
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150076d486cdeec00800000000000000
+      internalID: 931924513445576785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_50
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 665
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4839b971f723d7d20800000000000000
+      internalID: 3277831625233896324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_51
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 665
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cfed5dfd0921030800000000000000
+      internalID: 3463990354441600006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_52
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 677
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad611d40763a5e5a0800000000000000
+      internalID: -6492603624926931238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_53
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 631
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbb997310993adc0800000000000000
+      internalID: -3628888644223648773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 624
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba94c0aacdbff5a0800000000000000
+      internalID: -6485256260411942216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_55
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 627
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f25b0e70c1e16520800000000000000
+      internalID: 2693682269008909040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_56
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 620
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b41e0bfa1dbb930800000000000000
+      internalID: 4160149233323821949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_57
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 614
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea6a356a98670310800000000000000
+      internalID: 1371179623890184939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_58
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 613
+        width: 69
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e510ca44a2a7853a0800000000000000
+      internalID: -6676452125617421986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_59
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 575
+        width: 59
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b9220e37047f0c0800000000000000
+      internalID: -4542090832754074804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_60
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 552
+        width: 147
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d73356fdcdef8a0800000000000000
+      internalID: -6269330779219460851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_61
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 556
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368bafb1a01679740800000000000000
+      internalID: 5158698594223175779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_62
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 578
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1fb1fcdb4824370800000000000000
+      internalID: 8305346613583016415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_63
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 501
+        width: 81
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34a97960e51d42c0800000000000000
+      internalID: -4445873203558374339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_64
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 496
+        width: 81
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0833c85b7e8325e40800000000000000
+      internalID: 5643635850883117952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_65
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 514
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc23ce699b4c5540800000000000000
+      internalID: 4997952808834772170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_66
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 527
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a000470fd3d5f650800000000000000
+      internalID: 6266147411408715945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_67
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 490
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab60583d8d327cf0800000000000000
+      internalID: -256074552062219349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_68
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 493
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e8e69bbf19e7820800000000000000
+      internalID: 2917930118916509187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_69
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 536
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7f33e97ab710c00800000000000000
+      internalID: 865108563275806711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_70
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 491
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5b20c41bb5bda30800000000000000
+      internalID: 4241084291142038982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_71
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 494
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a573c7b868c021700800000000000000
+      internalID: 509483479851611994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_72
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 461
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e505f8988e468f0800000000000000
+      internalID: -548057577119785355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_73
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 461
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f7741d97a670e00800000000000000
+      internalID: 1010893712802676558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_74
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 458
+        width: 86
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4832f79854e96ae10800000000000000
+      internalID: 2208626688768549764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_75
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 423
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a21dcae210fb1d0800000000000000
+      internalID: -3332943899251365248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_76
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 422
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd9fa760067b52b0800000000000000
+      internalID: -5594748367966069326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_77
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 423
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c1bcf1a0ba5e550800000000000000
+      internalID: 6189541322862042248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_78
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 422
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4604c2ac00ae6c260800000000000000
+      internalID: 7117633550218444900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_79
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 422
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58b6c2f58ee7d8c0800000000000000
+      internalID: -3974445887060002724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_80
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 421
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1299e46ee33e06e80800000000000000
+      internalID: -8187294263268173535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_81
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 422
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba7499d9ad6a5b20800000000000000
+      internalID: 3123929867802147514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_82
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 444
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce06937ce988c7e0800000000000000
+      internalID: -1744993206961566008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_83
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 425
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf34fd9be7dffa80800000000000000
+      internalID: -8430782570446962758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_84
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 423
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b292764140817d0800000000000000
+      internalID: -2947601470437381371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_85
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 424
+        width: 5
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f646a4dacf2e5cdd0800000000000000
+      internalID: -2466315646048508817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_86
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 390
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e609d3cf3ea93bba0800000000000000
+      internalID: -6074341168412520338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_87
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 391
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf55cc301fbee200800000000000000
+      internalID: 211316308992942019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_88
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 401
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee0d6b573ccb9260800000000000000
+      internalID: 7105497375236230891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_89
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 392
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68d3e239d23563e0800000000000000
+      internalID: -2061185346009048978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_90
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 393
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3376692d540988440800000000000000
+      internalID: 4938355620971964211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_91
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 400
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f9a93960d9ce910800000000000000
+      internalID: 1868040597023661906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_92
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 392
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103f6a30cdf66d3d0800000000000000
+      internalID: -3182233095945915647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_93
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 392
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59a39d3cad1a9300800000000000000
+      internalID: 259552554131892575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_94
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 394
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f71445f89383210800000000000000
+      internalID: 1312862579135184740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_95
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 394
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e237b315ca3961d60800000000000000
+      internalID: 7860632567928288046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_96
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 359
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b985407ca3c5990800000000000000
+      internalID: -7395971861603378346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_97
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 361
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe629ad086709ef0800000000000000
+      internalID: -103452495634600196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_98
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 361
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e6137578320a520800000000000000
+      internalID: 2711206039867453016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_99
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 361
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fdc0d4c19f79460800000000000000
+      internalID: 7248536025223192373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_100
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 352
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0a5c9164bb94730800000000000000
+      internalID: 3983921255140401365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_101
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 350
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbf5097b6b173a70800000000000000
+      internalID: 8806537744752180187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_102
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 350
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfe5d56f436b1c30800000000000000
+      internalID: 4331164659308949460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_103
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 349
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43397563198deb620800000000000000
+      internalID: 2791906937209852724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_104
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 293
+        width: 78
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ad499a17698d510800000000000000
+      internalID: 1574173484686563958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_105
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 291
+        width: 138
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8ba1ac2f6afbb70800000000000000
+      internalID: 8917029348919916722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_106
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 286
+        width: 133
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f81659c8b673450800000000000000
+      internalID: 6068437274450824970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_107
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 279
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe00f6875d682ed30800000000000000
+      internalID: 4459274832456909039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_108
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 279
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce95e3113312fdb0800000000000000
+      internalID: -4759720754669052211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_109
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 279
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2304ff0390aa67100800000000000000
+      internalID: 105458597743247410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_110
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 278
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14556d107a8fe12f0800000000000000
+      internalID: -1000088671055620799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_111
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 279
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef40b5319689a6d0800000000000000
+      internalID: -2978701720299745300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_112
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 277
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e175961c060fae0800000000000000
+      internalID: -1517606690611585515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_113
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 276
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6994c3c0c8e804630800000000000000
+      internalID: 3909281208709433750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_114
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 276
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee08f7e7e8badb00800000000000000
+      internalID: 854198385508880107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_115
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 279
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f56712d4396052a0800000000000000
+      internalID: -6750780165844408840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_116
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 274
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d89b25e2c26577f0800000000000000
+      internalID: -615477184858187566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_117
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 263
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3236bdd1fd7af70800000000000000
+      internalID: 9198566083255280631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_118
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 270
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727908772d2b297a0800000000000000
+      internalID: -6371833905758038233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_119
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 270
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2151acece09b91650800000000000000
+      internalID: 6204193434929599762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_120
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 262
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98888468b7de4f600800000000000000
+      internalID: 501286573334628489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_121
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 267
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf68ded5d6b52ab60800000000000000
+      internalID: 7755862033570825980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_122
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 271
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a586be42c3fe5230800000000000000
+      internalID: 3629606365576988068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_123
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 264
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3774675885e2c4d0800000000000000
+      internalID: -3115675618442447045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_124
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 264
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02521e47327269bc0800000000000000
+      internalID: -3776788204265331424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_125
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 268
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cb63bf6afcad6b0800000000000000
+      internalID: -5270672097797555099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_126
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 268
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f7466359e9da2f0800000000000000
+      internalID: -959936781860175979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_127
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 264
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c732df2dec1b2010800000000000000
+      internalID: 1165056733640538051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_128
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 261
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1cc4a33a8d5ddb0800000000000000
+      internalID: -4767666434932424222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_129
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 268
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b495acbcada361440800000000000000
+      internalID: 4906173555463051595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_130
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 262
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a37061f6fe282680800000000000000
+      internalID: -8779715835412319325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_131
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 262
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f859459d678a67d0800000000000000
+      internalID: -2924376103297918734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_132
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 263
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d772f2222ca6a1490800000000000000
+      internalID: -7774784424672024707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_133
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 244
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c782cfc4ec6620a80800000000000000
+      internalID: -8502120110281185156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_134
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 242
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9af80ce248a3d0a0800000000000000
+      internalID: -6857952802173814115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_135
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 244
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92a8d662fda8bad0800000000000000
+      internalID: -2686205921107336547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_136
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 233
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d850bb19059bff60800000000000000
+      internalID: 8069207023716161751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_137
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 234
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100f5173582580d60800000000000000
+      internalID: 7856620282056142849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_138
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 238
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad53bc4d9b72e96c0800000000000000
+      internalID: -4134823728787016230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_139
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 236
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3358bdb933cffad80800000000000000
+      internalID: -8237087894848961229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_140
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 238
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370b7d11a1dcf7230800000000000000
+      internalID: 3638852535790841971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_141
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 235
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdde907d1059f1f0800000000000000
+      internalID: -1010688553994232388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_142
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 239
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ea8f3c6aee567d0800000000000000
+      internalID: -2925669982887432587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_143
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 215
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c39cc6ef4f9590c0800000000000000
+      internalID: -4569571081374100537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_144
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 224
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58396b0448414c730800000000000000
+      internalID: 4018359325775270789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_145
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 210
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c9e1cc1463a0430800000000000000
+      internalID: 3749869295964691580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_146
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 231
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5ae518d2853c290800000000000000
+      internalID: -7871350771246258736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_147
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 230
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecf8323eb907c840800000000000000
+      internalID: 5244171003587263714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_148
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 227
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3762fc215430af9b0800000000000000
+      internalID: -5045716837312027021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_149
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 220
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c785fd439b1da20800000000000000
+      internalID: 3085450856462056565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_150
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 214
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678465352e2cabac0800000000000000
+      internalID: -3838541455063365514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_151
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 224
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad79d34b44e52e70800000000000000
+      internalID: 9089922434829221290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_152
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 206
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98dfe8be36fc5c80800000000000000
+      internalID: -8332514461291128676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_153
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 217
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a74724b71c25400800000000000000
+      internalID: 311524059382053486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_154
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 208
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c436c1d2ecb6c7020800000000000000
+      internalID: 2340864439590085452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_155
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 211
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62238f7f4df66d730800000000000000
+      internalID: 4023526277586104870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_156
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 218
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97e3c1b065fbe450800000000000000
+      internalID: 6119254314361022367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_157
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 210
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b048c9bc9ddf730800000000000000
+      internalID: 4034620309721320323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_158
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 214
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24327ad95599a440800000000000000
+      internalID: 4947649878792746030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_159
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 212
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b41ec5bc9c10630800000000000000
+      internalID: 3891613428298632006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_160
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 213
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117e0a0f8b8840990800000000000000
+      internalID: -7420655958107298031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_161
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 201
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2311b1ca7ce376c0800000000000000
+      internalID: -4146710819898322134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_162
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 192
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bf9e6c726e1eb30800000000000000
+      internalID: 4314982976512981900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_163
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 214
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63654ade8fdfcdeb0800000000000000
+      internalID: -4693597466046212554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_164
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 206
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f108ea87ece3250800000000000000
+      internalID: 5926401177385181043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_165
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 214
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5869192c26a698ad0800000000000000
+      internalID: -2699509529228241275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_166
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 208
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d5933e26d277320800000000000000
+      internalID: 2555561216298278146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_167
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 174
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ac8dd3b24151c00800000000000000
+      internalID: 870624278919826012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_168
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 187
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3974f93a604827f40800000000000000
+      internalID: 5724783240391116691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_169
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 150
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d378e2fad1f975910800000000000000
+      internalID: 1826103123763955517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_170
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 150
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd097357be9885390800000000000000
+      internalID: -7829356307806711585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_171
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 152
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3373291765467b330800000000000000
+      internalID: 3726557539107747635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_172
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 152
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d941326a679adcd0800000000000000
+      internalID: -2532545357272757804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_173
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 155
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfcbfcb3ec6a4a80800000000000000
+      internalID: -8481847222814912570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_174
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 184
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1fc5ef4cca68db0800000000000000
+      internalID: -4789951191580872224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_175
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 185
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833b564e95cc7a140800000000000000
+      internalID: 4730974620032021304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_176
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 149
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd90e84e37ece4e90800000000000000
+      internalID: -7039462170382431779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_177
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 176
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9230fdb10ac45e520800000000000000
+      internalID: 2730672999616152361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_178
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 140
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25588aea917ea8280800000000000000
+      internalID: -9040159204502370990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_179
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 153
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abaf9b9c38b0fd90800000000000000
+      internalID: -7065945244895827031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_180
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 122
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0b5257ee01b4590800000000000000
+      internalID: -7689033322451324749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_181
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 123
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b94d64bc4bd50cf0800000000000000
+      internalID: -286581878777099856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_182
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 140
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43af1acc88625640800000000000000
+      internalID: 5067227484641010509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_183
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 147
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c8efc6bf45e77b0800000000000000
+      internalID: -5224645078861050728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_184
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 140
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00245cdfb954ed6a0800000000000000
+      internalID: -6422619482303938048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_185
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 146
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad942c05b43c67a90800000000000000
+      internalID: -7316445816371918374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_186
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 145
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230c7b4d65f0fa920800000000000000
+      internalID: 3003636342089826354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_187
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 136
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb40a5ef4fc3be90800000000000000
+      internalID: -7011032252823876636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_188
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 137
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3baf399b7efe100800000000000000
+      internalID: 139584897709421554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_189
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 134
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdde18c6e2b95380800000000000000
+      internalID: -8981951277544055364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_190
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 126
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2349de8d59f36850800000000000000
+      internalID: 6369208478255891245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_191
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 103
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ed55b71e61c6170800000000000000
+      internalID: 8172932581463285253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_192
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 121
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f740f76d0c88420800000000000000
+      internalID: 2632566009684590432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_193
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 83
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b265bcf621e0170c0800000000000000
+      internalID: -4579863873711286741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_194
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 139
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91211d5cd800f04f0800000000000000
+      internalID: -860468394895273447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_195
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 134
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40582c7585a296f40800000000000000
+      internalID: 5722151360468780292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_196
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 105
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d2fa967130d53a0800000000000000
+      internalID: -6675175673600987804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_197
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 125
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5109f138ca635360800000000000000
+      internalID: 7157181640886255967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_198
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 81
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69860485cd529cb0800000000000000
+      internalID: -4858717945074382486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_199
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 123
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e26d410462d72c0800000000000000
+      internalID: -4432344401593356649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_200
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 82
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36963e5b7f0fa490800000000000000
+      internalID: -7732945012635822534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_201
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 103
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c053213e8347d9740800000000000000
+      internalID: 5160408535713068300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_202
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 82
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7fdcd116b398f90800000000000000
+      internalID: -6950959261571745874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_203
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 102
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e6600c1f9e538d0800000000000000
+      internalID: -2867128363233415649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_204
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 85
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de98e78e7b5873480800000000000000
+      internalID: -8919513512057861651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_205
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 22
+        width: 147
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28c86a5f56bb8fc0800000000000000
+      internalID: -3491496565440722901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_206
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 61
+        width: 70
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3078e7c17ac8c1e40800000000000000
+      internalID: 5628528283671758595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_207
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 58
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b56965a43f2ae10800000000000000
+      internalID: 2207594267970788197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_208
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 59
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ce4e5df7405c030800000000000000
+      internalID: 3514220031328447646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_209
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 11
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4259e8960b6dda100800000000000000
+      internalID: 120988818182411556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_210
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 57
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5512863c67ff1d350800000000000000
+      internalID: 6039889460830150997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_211
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 55
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0720fc252e02720800000000000000
+      internalID: 2819502212022169855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_212
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 20
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e8d6a5c3e3f0520800000000000000
+      internalID: 2670421532990082702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sadsasdadsdas_213
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 7
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac4423ea35524a10800000000000000
+      internalID: 1892168504856300719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
