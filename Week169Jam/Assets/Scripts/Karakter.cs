@@ -1,8 +1,7 @@
 ﻿using UnityEngine;
 public class Karakter : MonoBehaviour
 {
-    public int speed;
-    public int jumpSpeed;
+    [SerializeField]private int speed, jumpSpeed, climbSpeed;
 
     Animator animator;
     Rigidbody2D rb;
@@ -49,7 +48,7 @@ public class Karakter : MonoBehaviour
     {
         if (isGround)
         {
-            rb.AddForce(Vector2.up * jumpSpeed);
+            rb.velocity = new Vector2(rb.velocity.x, jumpSpeed);
             isGround = false;
         }
     }
@@ -64,6 +63,7 @@ public class Karakter : MonoBehaviour
 
      public void OnCollisionEnter2D(Collision2D collision)
     {
+        rb.velocity = new Vector2(rb.velocity.x, 0);
         isGround = true;
         if(collision.transform.tag == "Gemi")
         {
@@ -75,6 +75,21 @@ public class Karakter : MonoBehaviour
         if (!isGround)
         {
         isGround = true;
+        }
+    }
+    public void OnTriggerStay2D(Collider2D collision)
+    {
+        if (collision.transform.tag == "ladder" && Input.GetKey(KeyCode.W))
+        {
+            rb.velocity = new Vector2(rb.velocity.x, climbSpeed);
+        }
+        else if (collision.transform.tag == "ladder" && Input.GetKey(KeyCode.S))
+        {
+            rb.velocity = new Vector2(rb.velocity.x, -climbSpeed);
+        }
+        else
+        {
+            rb.velocity = new Vector2(rb.velocity.x, 2);
         }
     }
     public void OnCollisionExit2D(Collision2D collision)
