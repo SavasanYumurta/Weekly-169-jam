@@ -2,18 +2,25 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class İdle : StateMachineBehaviour
+public class TopYerGo : StateMachineBehaviour
 {
+    [SerializeField] private Transform topluk;
+    [SerializeField] private float speed, offsetx, offsety;
     // OnStateEnter is called when a transition starts and the state machine starts to evaluate this state
     override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
-        animator.SetBool("isGoTopluk", true);
+        topluk = GameObject.FindWithTag("EnemyTopluk").transform;
     }
 
     // OnStateUpdate is called on each Update frame between OnStateEnter and OnStateExit callbacks
     override public void OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
-        
+        animator.transform.position = Vector2.MoveTowards(animator.transform.position, new Vector3(topluk.position.x + offsetx, topluk.position.y + offsety), speed * Time.deltaTime);
+        if (Vector2.Distance(animator.transform.position, new Vector3(topluk.position.x + offsetx, topluk.position.y + offsety)) <= 0.1)
+        {
+            animator.SetBool("isGoFire", true);
+            animator.SetBool("isGoTopluk", false);
+        }
     }
 
     // OnStateExit is called when a transition ends and the state machine finishes evaluating this state

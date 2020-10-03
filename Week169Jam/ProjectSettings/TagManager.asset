@@ -8,6 +8,7 @@ TagManager:
   - ladder
   - TopMermi
   - EnemyTop
+  - EnemyTopluk
   layers:
   - Default
   - TransparentFX
