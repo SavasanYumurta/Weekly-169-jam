@@ -7,7 +7,6 @@ public class Top : MonoBehaviour
     public GameObject mermi;
     public GameObject yazi;
     public GameObject Topy;
-
     public void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.transform.tag == "TopMermi")
