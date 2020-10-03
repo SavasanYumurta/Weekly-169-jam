@@ -1,41 +1,61 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 public class Karakter : MonoBehaviour
 {
-    private Rigidbody2D rb;
-    public Animator anim;
-    [SerializeField] private float speed, jumpSpeed;
-    [SerializeField] private bool isGround,faceRight,isJump;
-    public void Start()
-    {
-        faceRight = true;
-        rb = GetComponent<Rigidbody2D>();
-        anim = GetComponent<Animator>();
-    }
-    public void Update()
-    {
-        float x = Input.GetAxis("Horizontal");
-        float y = Input.GetAxis("Vertical");
-        rb.velocity = new Vector2(x, 0) * speed;
-        anim.SetFloat("Hiz", x);
-        if(Input.GetKeyDown(KeyCode.Space))
-        {
-            if (isGround && !isJump)
-            {
-                rb.AddForce(Vector2.up * jumpSpeed);
-            }
-        }
-        if (faceRight == true && x < 0)
-        {
-            Flip();
+    public int speed;
+    public int jumpSpeed;
 
+    Animator animator;
+    Rigidbody2D rb;
+
+    public bool isGround = true;
+    bool faceRight = true;
+
+    private void Start()
+    {
+        animator = GetComponent<Animator>();
+        rb = GetComponent<Rigidbody2D>();
+    }
+
+    private void FixedUpdate()
+    {
+        float moveInput = Input.GetAxis("Horizontal");
+        rb.velocity = new Vector2(moveInput * speed, rb.velocity.y);
+
+        if (moveInput > 0 || moveInput < 0)
+        {
+            animator.SetBool("isRunning", true);
         }
-        else if (faceRight == false && x > 0)
+        else
+        {
+            animator.SetBool("isRunning", false);
+        }
+
+        if (faceRight == true && moveInput < 0)
+        {
+
+            Flip();
+        }
+        else if (faceRight == false && moveInput > 0)
         {
             Flip();
         }
+
+        if (Input.GetButtonDown("Jump"))
+        {
+            Debug.Log("zıp");
+            Jump();
+        }
     }
+
+    private void Jump()
+    {
+        if (isGround)
+        {
+            rb.AddForce(Vector2.up * jumpSpeed);
+            isGround = false;
+        }
+    }
+
     private void Flip()
     {
         faceRight = !faceRight;
@@ -43,7 +63,8 @@ public class Karakter : MonoBehaviour
         scaler.x *= -1;
         transform.localScale = scaler;
     }
-    public void OnCollisionEnter2D(Collision2D collision)
+
+     public void OnCollisionEnter2D(Collision2D collision)
     {
         isGround = true;
         if(collision.transform.tag == "Gemi")

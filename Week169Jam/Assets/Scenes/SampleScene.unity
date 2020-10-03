@@ -1644,12 +1644,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 626e119193c0c9e4ca63eb0cc241899c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anim: {fileID: 0}
-  speed: 10
-  jumpSpeed: 400
-  isGround: 0
-  faceRight: 1
-  isJump: 0
+  speed: 5
+  jumpSpeed: 1000
+  isGround: 1
 --- !u!61 &2093654916
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1691,7 +1688,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 10
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
