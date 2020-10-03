@@ -6,6 +6,7 @@ public class Top : MonoBehaviour
 {
     [SerializeField] private GameObject player, Mermi;
     [SerializeField] private CameraFollow camFol;
+    [SerializeField] private float offsetx,offsety;
     public void Update()
     {
         float dis = (Vector2.Distance(player.transform.position, this.transform.position));
@@ -24,8 +25,9 @@ public class Top : MonoBehaviour
     }
     public void Ates()
     {
-        Instantiate(Mermi,new Vector2(transform.position.x,transform.position.y),Quaternion.identity);
+        GameObject go = Instantiate(Mermi,new Vector3(transform.position.x + offsetx,transform.position.y + offsety,-1),Quaternion.identity);
         camFol.topVarmi = true;
+        camFol.Top = go.transform;
         print("ates");
     }
 }
