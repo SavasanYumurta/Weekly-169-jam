@@ -79,7 +79,7 @@ public class Karakter : MonoBehaviour
     }
     public void OnTriggerStay2D(Collider2D collision)
     {
-        if (collision.transform.tag == "ladder" && Input.GetKey(KeyCode.W))
+        if (collision.transform.tag == "ladder" && Input.GetKey(KeyCode.W) || Input.GetKey(KeyCode.Space))
         {
             rb.velocity = new Vector2(rb.velocity.x, climbSpeed);
         }
