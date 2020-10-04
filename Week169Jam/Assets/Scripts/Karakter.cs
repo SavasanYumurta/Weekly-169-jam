@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+
 public class Karakter : MonoBehaviour
 {
     [SerializeField]private int speed, jumpSpeed, climbSpeed;
@@ -6,9 +7,8 @@ public class Karakter : MonoBehaviour
     
     Animator animator;
     Rigidbody2D rb;
-
-    public bool isGround = true;
-    bool faceRight = true;
+    public bool isMermi;
+    private bool isGround = true,faceRight = true;
 
     private void Start()
     {

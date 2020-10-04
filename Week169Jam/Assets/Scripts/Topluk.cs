@@ -5,8 +5,10 @@ using UnityEngine;
 public class Topluk : MonoBehaviour
 {
     [SerializeField] private GameObject player;
-    [SerializeField] private CameraFollow camFol;
-    [SerializeField] private float offsetx,offsety;
+    public void Start()
+    {
+        player = GameObject.FindWithTag("Player");
+    }
     public void Update()
     {
         float dis = (Vector2.Distance(player.transform.position, this.transform.position));
@@ -25,6 +27,7 @@ public class Topluk : MonoBehaviour
     }
     public void TopAl()
     {
-
+        player.GetComponent<Karakter>().isMermi = true;
+        player.transform.GetChild(0).gameObject.SetActive(true);
     }
 }
