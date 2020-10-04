@@ -1,10 +1,8 @@
 ﻿using UnityEngine;
 
 public class Karakter : MonoBehaviour
-{
-    [SerializeField]private int speed, jumpSpeed, climbSpeed;
-
-    
+{    
+    public int speed, jumpSpeed, climbSpeed,repairSpeed;
     Animator animator;
     Rigidbody2D rb;
     public bool isMermi;
@@ -88,7 +86,7 @@ public class Karakter : MonoBehaviour
         {
             rb.velocity = new Vector2(rb.velocity.x, -climbSpeed);
         }
-        else
+        else if(collision.transform.tag == "ladder")
         {
             rb.velocity = new Vector2(rb.velocity.x, 2);
         }

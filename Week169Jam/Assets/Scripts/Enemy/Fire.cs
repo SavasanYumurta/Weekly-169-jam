@@ -1,26 +1,28 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using UnityEditor.Animations;
 using UnityEngine;
+using UnityEngine.Animations;
 
-public class TopYerGo : StateMachineBehaviour
+public class Fire : StateMachineBehaviour
 {
-    [SerializeField] private Transform topluk;
-    [SerializeField] private float speed, offsetx, offsety;
+    [SerializeField] private GameObject mermi;
+    [SerializeField] private FireGo fG;
+    [SerializeField] private float offsetx,offsety,maxSpeed,minSpeed;
     // OnStateEnter is called when a transition starts and the state machine starts to evaluate this state
     override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
-        topluk = GameObject.FindWithTag("EnemyTopluk").transform;
+        fG = animator.GetBehaviour<FireGo>();
+        GameObject go = Instantiate(mermi, fG.topos.position, Quaternion.identity);
+        float topSpeed = Random.Range(minSpeed, maxSpeed);
+        go.GetComponent<Rigidbody2D>().AddForce(new Vector2(-fG.topos.position.x - offsetx, fG.topos.position.y + offsety) * topSpeed);
+        animator.SetBool("isFire", false);
     }
 
     // OnStateUpdate is called on each Update frame between OnStateEnter and OnStateExit callbacks
     override public void OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
-        animator.transform.position = Vector2.MoveTowards(animator.transform.position, new Vector3(topluk.position.x + offsetx, topluk.position.y + offsety), speed * Time.deltaTime);
-        if (Vector2.Distance(animator.transform.position, new Vector3(topluk.position.x + offsetx, topluk.position.y + offsety)) <= 0.1)
-        {
-            animator.SetBool("isGoTopluk", false);
-            animator.SetBool("isGoFire", true);
-        }
+        
     }
 
     // OnStateExit is called when a transition ends and the state machine finishes evaluating this state

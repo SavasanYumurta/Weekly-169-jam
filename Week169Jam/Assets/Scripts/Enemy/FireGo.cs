@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class FireGo : StateMachineBehaviour
 {
-    [SerializeField]private Transform topos;
+    public Transform topos;
     [SerializeField]private float speed,offsetx,offsety;
     override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
@@ -13,10 +13,10 @@ public class FireGo : StateMachineBehaviour
     override public void OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
         animator.transform.position = Vector2.MoveTowards(animator.transform.position,new Vector3(topos.position.x + offsetx,topos.position.y + offsety),speed * Time.deltaTime);
-        if (Vector2.Distance(animator.transform.position, new Vector3(topos.position.x + offsetx, topos.position.y + offsety)) <= 0.1)
+        if (Vector2.Distance(animator.transform.position, new Vector3(topos.position.x + offsetx, topos.position.y + offsety)) <= 0.001)
         {
-            animator.SetBool("isFire", true);
             animator.SetBool("isGoFire", false);
+            animator.SetBool("isFire", true);
         }
     }
     override public void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)

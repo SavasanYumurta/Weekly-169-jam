@@ -17,7 +17,9 @@ public class Topluk : MonoBehaviour
             transform.GetChild(0).gameObject.SetActive(true);
             if (Input.GetKeyDown(KeyCode.F))
             {
-                TopAl();
+                if (!player.GetComponent<Karakter>().isMermi) {
+                    TopAl();
+                }
             }
         }
         else
@@ -28,6 +30,7 @@ public class Topluk : MonoBehaviour
     public void TopAl()
     {
         player.GetComponent<Karakter>().isMermi = true;
+        player.GetComponent<Karakter>().speed /= 2;
         player.transform.GetChild(0).gameObject.SetActive(true);
     }
 }
