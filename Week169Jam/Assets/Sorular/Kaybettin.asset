@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: Kaybettin
   m_EditorClassIdentifier: 
   soru: "Korsanlara kar\u015F\u0131 kaybettin ne yapacaks\u0131n"
-  birinciC: Para ver
+  birinciC: Para ver (1000 Gold)
   ikinciC: "Esir d\xFC\u015F"
   UcuncuC: 
   C1Soru: {fileID: 0}
   C2Soru: {fileID: 0}
   C3Soru: {fileID: 0}
   "oynan\u0131s": 1
-  CS: 0
+  CS: 2

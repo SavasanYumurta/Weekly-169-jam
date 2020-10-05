@@ -8,6 +8,7 @@ public class Manager : MonoBehaviour
 {
     [SerializeField] private Soru PatlamaSorusu,currenSoru;
     private bool soru;
+    public bool GemiPatlak;
     [SerializeField] private GameObject soruBolum;
     
     public void Update()
@@ -81,6 +82,7 @@ public class Manager : MonoBehaviour
     }
     public void Patla()
     {
+        GemiPatlak = true;
         MapAcKapa();
         SorularıAl(PatlamaSorusu);
     }

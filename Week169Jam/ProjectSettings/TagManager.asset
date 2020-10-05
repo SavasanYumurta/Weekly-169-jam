@@ -9,6 +9,7 @@ TagManager:
   - TopMermi
   - EnemyTop
   - EnemyTopluk
+  - enemyShip
   layers:
   - Default
   - TransparentFX
