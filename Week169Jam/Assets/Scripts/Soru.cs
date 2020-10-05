@@ -8,7 +8,8 @@ public class Soru : ScriptableObject
     [TextArea(4,6)] public string soru;
     [TextArea(4, 6)] public string birinciC,ikinciC,UcuncuC;
     [SerializeField] private Soru C1Soru, C2Soru, C3Soru;
-    [SerializeField] private bool oynanıs;
+    public bool oynanıs;
+    public float CS;
 
     public Soru GetSiradakiSoru1()
     {

@@ -4,10 +4,11 @@ using UnityEngine;
 
 public class HealthSystem : MonoBehaviour
 {
-    [SerializeField] private float Health,maxHealth,bozuklukMax,bozukluk;
-    [SerializeField] private int Sira;
+    public float Health,maxHealth,bozuklukMax,bozukluk;
+    public int Sira;
     [SerializeField] private GameObject Bar,Player;
-    [SerializeField] private bool bozuk, thisGemi;
+    [SerializeField] private bool bozuk,kaybet ,thisGemi,thisEnemyShip;
+    [SerializeField] private Manager manager;
     private bool Can700Animg, Can400Animg, Can0Animg;
     public void Start()
     {
@@ -89,6 +90,10 @@ public class HealthSystem : MonoBehaviour
     }
     public void Kaybet()
     {
-
+        if (!kaybet)
+        {
+            kaybet = true;
+            manager.Patla();
+        }
     }
 }

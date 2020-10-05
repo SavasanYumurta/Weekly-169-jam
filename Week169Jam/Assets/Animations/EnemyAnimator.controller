@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   topos: {fileID: 0}
-  speed: 5
+  speed: 2.5
   offsetx: 0
   offsety: 0
 --- !u!1102 &-6824624707464808718
@@ -321,7 +321,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   topluk: {fileID: 0}
-  speed: 10
+  speed: 5
   offsetx: 0
   offsety: 0
 --- !u!114 &6442523377646495940
@@ -338,7 +338,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mermi: {fileID: 216246724740364854, guid: 66f8d2eb6cd2acd4db44763558c0804a, type: 3}
   fG: {fileID: 0}
-  offsetx: 5
+  offsetx: 10
   offsety: 15
-  maxSpeed: 35
-  minSpeed: 70
+  maxSpeed: 30
+  minSpeed: 80
