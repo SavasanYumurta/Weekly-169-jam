@@ -7,7 +7,8 @@ public class HealthSystem : MonoBehaviour
     [SerializeField] private float Health,maxHealth,bozuklukMax,bozukluk;
     [SerializeField] private int Sira;
     [SerializeField] private GameObject Bar,Player;
-    [SerializeField] private bool bozuk;
+    [SerializeField] private bool bozuk, thisGemi;
+    private bool Can700Animg, Can400Animg, Can0Animg;
     public void Start()
     {
         Player = GameObject.FindWithTag("Player");
@@ -32,10 +33,33 @@ public class HealthSystem : MonoBehaviour
             {
                 Health = maxHealth;
             }
+            else if (Health == 700) 
+            { 
+                if(Can700Animg && thisGemi)
+                {
+                    Can700Animg = true;
+                    this.GetComponent<Animator>().SetTrigger("400");
+                }
+            }
+            else if (Health == 400)
+            {
+                if (Can400Animg && thisGemi)
+                {
+                    Can400Animg = true;
+                    this.GetComponent<Animator>().SetTrigger("400");
+                }
+            }
             else if (Health <= 0)
             {
-                bozukluk = bozuklukMax;
-                Bozul();
+                if (!thisGemi)
+                {
+                    bozukluk = bozuklukMax;
+                    Bozul();
+                }
+                else
+                {
+                    Kaybet();
+                }
             }
             Bar.transform.GetChild(0).localScale = new Vector2((Health / maxHealth), Bar.transform.GetChild(0).localScale.y);
             Bar.transform.GetChild(0).localPosition = new Vector3(0.5f + (-1 * (1 - ((Health / maxHealth)) / 2)), 0, -0.001f);
@@ -62,5 +86,9 @@ public class HealthSystem : MonoBehaviour
         this.GetComponent<Animator>().SetTrigger("bom");
         Bar.transform.GetChild(1).gameObject.SetActive(true);
         bozuk = true;
+    }
+    public void Kaybet()
+    {
+
     }
 }

@@ -81,13 +81,19 @@ public class Top : MonoBehaviour
         yield return new WaitForSeconds(2f);
         cam.GetComponent<Animator>().SetTrigger("SavasCık");
     }
-public void Topp()
+    public void Topp()
     {
         GameObject go = Instantiate(mermi, transform.position, Quaternion.identity);
-        go.GetComponent<Rigidbody2D>().AddForce(new Vector2(atısAcı.transform.position.x,atısAcı.transform.position.y) * topSpeed);
+        go.GetComponent<Rigidbody2D>().AddForce(new Vector2(atısAcı.transform.position.x, atısAcı.transform.position.y) * topSpeed);
+        StartCoroutine (Ac(go));
         topSpeed = 200;
         Destroy(go, 10f);
         vurusHiz.SetActive(false);
+    }
+    IEnumerator Ac(GameObject go)
+    {
+        yield return new WaitForSeconds(0.3f);
+        go.GetComponent<CircleCollider2D>().enabled = true;
     }
 
 }
