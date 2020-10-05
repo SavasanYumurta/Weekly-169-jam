@@ -85,7 +85,8 @@ public class Top : MonoBehaviour
     {
         GameObject go = Instantiate(mermi, transform.position, Quaternion.identity);
         go.GetComponent<Rigidbody2D>().AddForce(new Vector2(atısAcı.transform.position.x, atısAcı.transform.position.y) * topSpeed);
-        StartCoroutine (Ac(go));
+        go.GetComponent<CircleCollider2D>().enabled = false;
+        StartCoroutine(Ac(go));
         topSpeed = 200;
         Destroy(go, 10f);
         vurusHiz.SetActive(false);

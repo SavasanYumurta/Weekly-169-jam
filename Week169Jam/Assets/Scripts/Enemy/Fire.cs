@@ -1,5 +1,4 @@
 ﻿using System.Collections;
-using System.Collections.Generic;
 using UnityEditor.Animations;
 using UnityEngine;
 using UnityEngine.Animations;
@@ -13,12 +12,11 @@ public class Fire : StateMachineBehaviour
     override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
         fG = animator.GetBehaviour<FireGo>();
-        GameObject go = Instantiate(mermi, fG.topos.position, Quaternion.identity);
+        GameObject go = Instantiate(mermi,new Vector2(fG.topos.position.x - 5, fG.topos.position.y), Quaternion.identity);
         float topSpeed = Random.Range(minSpeed, maxSpeed);
         go.GetComponent<Rigidbody2D>().AddForce(new Vector2(-fG.topos.position.x - offsetx, fG.topos.position.y + offsety) * topSpeed);
         animator.SetBool("isFire", false);
     }
-
     // OnStateUpdate is called on each Update frame between OnStateEnter and OnStateExit callbacks
     override public void OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
