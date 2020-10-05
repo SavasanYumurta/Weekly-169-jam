@@ -37,13 +37,15 @@ public class HealthSystem : MonoBehaviour
                 bozukluk = bozuklukMax;
                 Bozul();
             }
-            Bar.transform.GetChild(0).localScale = new Vector2((Health / maxHealth), Bar.transform.localScale.y);
+            Bar.transform.GetChild(0).localScale = new Vector2((Health / maxHealth), Bar.transform.GetChild(0).localScale.y);
             Bar.transform.GetChild(0).localPosition = new Vector3(0.5f + (-1 * (1 - ((Health / maxHealth)) / 2)), 0, -0.001f);
         }
         else
         {
             if (Input.GetKey(KeyCode.F))
             {
+                Bar.transform.GetChild(0).localScale = new Vector2(1 - (bozukluk / bozuklukMax), Bar.transform.GetChild(0).localScale.y);
+                Bar.transform.GetChild(0).localPosition = new Vector3(0.5f + (-1 * (1 - (((100 - bozukluk) / bozuklukMax)) / 2)), 0, -0.001f);
                 bozukluk -= Time.deltaTime * Player.GetComponent<Karakter>().repairSpeed;
                 if(bozukluk <= 0)
                 {
