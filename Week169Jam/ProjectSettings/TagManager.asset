@@ -10,6 +10,8 @@ TagManager:
   - EnemyTop
   - EnemyTopluk
   - enemyShip
+  - MainAda
+  - OtherAda
   layers:
   - Default
   - TransparentFX
