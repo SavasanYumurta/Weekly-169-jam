@@ -7,9 +7,9 @@ using UnityEngine.UI;
 public class Manager : MonoBehaviour
 {
     [SerializeField] private Soru PatlamaSorusu,currenSoru;
-    private bool soru;
-    public bool GemiPatlak;
-    [SerializeField] private GameObject soruBolum;
+    private bool soru,map;
+    public bool GemiPatlak,savasta;
+    [SerializeField] private GameObject soruBolum,mapB;
     
     public void Update()
     {
@@ -75,15 +75,25 @@ public class Manager : MonoBehaviour
         currenSoru = soru;
         Sorularıİsle();
     }
-    public void MapAcKapa()
+    public void SoruAcKapa()
     {
         soru = !soru;
         transform.GetChild(0).gameObject.SetActive(soru);
     }
+    public void MapAcKapa()
+    {
+        if (!savasta)
+        {
+            map = !map;
+            transform.GetChild(1).gameObject.SetActive(!map);
+            mapB.SetActive(map);
+            GameObject.FindWithTag("MainCamera").GetComponent<Animator>().SetBool("isMap", true);
+        }
+    }
     public void Patla()
     {
         GemiPatlak = true;
-        MapAcKapa();
+        SoruAcKapa();
         SorularıAl(PatlamaSorusu);
     }
     public void Oynanıs(float cevap)
@@ -95,7 +105,7 @@ public class Manager : MonoBehaviour
             {
                 PlayerPrefs.SetFloat("Gold", PlayerPrefs.GetFloat("Gold") - 1000);
                 GameObject.FindWithTag("enemyShip").SetActive(false);
-                MapAcKapa();
+                SoruAcKapa();
                 
             }else if (cevap == 2)
             {
