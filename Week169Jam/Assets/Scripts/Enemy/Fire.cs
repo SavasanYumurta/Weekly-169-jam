@@ -1,7 +1,4 @@
-﻿using System.Collections;
-using UnityEditor.Animations;
-using UnityEngine;
-using UnityEngine.Animations;
+﻿using UnityEngine;
 
 public class Fire : StateMachineBehaviour
 {

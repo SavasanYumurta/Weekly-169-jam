@@ -134,7 +134,7 @@ public class Manager : MonoBehaviour
         }
         if (menu)
         {
-            UI.transform.GetChild(0).GetComponent<Text>().text = "Best Score: " + PlayerPrefs.GetInt("BS", 0);
+            UI.transform.GetChild(1).GetComponent<Text>().text = "Best Score: " + PlayerPrefs.GetInt("BS", 0);
         }
     }
     public void reset()
