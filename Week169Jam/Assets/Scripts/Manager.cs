@@ -9,9 +9,10 @@ public class Manager : MonoBehaviour
     [SerializeField] private Soru PatlamaSorusu,currenSoru;
     private bool soru,map;
     public bool GemiPatlak,savasta;
-    [SerializeField] private GameObject soruBolum,mapB;
+    [SerializeField] private GameObject soruBolum,mapB,UI;
+    public int score;
     
-    public void Update()
+    /*public void Update()
     {
         if (soru)
         {
@@ -60,6 +61,7 @@ public class Manager : MonoBehaviour
             
         }
     }
+    
     public void Sorularıİsle()
     {
         soruBolum.transform.GetChild(0).GetComponent<Text>().text = currenSoru.soru;
@@ -89,13 +91,16 @@ public class Manager : MonoBehaviour
             mapB.SetActive(map);
             GameObject.FindWithTag("MainCamera").GetComponent<Animator>().SetBool("isMap", true);
         }
-    }
+    */
     public void Patla()
     {
         GemiPatlak = true;
-        SoruAcKapa();
-        SorularıAl(PatlamaSorusu);
+        if(score > PlayerPrefs.GetInt("BS", 0)){
+            PlayerPrefs.SetInt("BS", score);
+        }
+        UI.transform.GetChild(3).gameObject.SetActive(true);
     }
+    /*
     public void Oynanıs(float cevap)
     {
 
@@ -115,5 +120,5 @@ public class Manager : MonoBehaviour
 
             }
         }
-    }
+    */
 }

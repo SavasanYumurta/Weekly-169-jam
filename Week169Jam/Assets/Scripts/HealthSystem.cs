@@ -57,11 +57,16 @@ public class HealthSystem : MonoBehaviour
                     bozukluk = bozuklukMax;
                     Bozul();
                 }
-                else
+                else if (thisGemi)
                 {
                     Kaybet();
                 }
+                else if (thisEnemyShip)
+                {
+                    Kazan();
+                }
             }
+            
             Bar.transform.GetChild(0).localScale = new Vector2((Health / maxHealth), Bar.transform.GetChild(0).localScale.y);
             Bar.transform.GetChild(0).localPosition = new Vector3(0.5f + (-1 * (1 - ((Health / maxHealth)) / 2)), 0, -0.001f);
         }
@@ -96,4 +101,6 @@ public class HealthSystem : MonoBehaviour
             manager.Patla();
         }
     }
+    public void Kazan() { [
+        ]}
 }
