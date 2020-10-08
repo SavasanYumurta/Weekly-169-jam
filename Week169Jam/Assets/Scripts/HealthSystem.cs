@@ -52,7 +52,7 @@ public class HealthSystem : MonoBehaviour
             }
             else if (Health <= 0)
             {
-                if (!thisGemi)
+                if (!thisGemi && !thisEnemyShip)
                 {
                     bozukluk = bozuklukMax;
                     Bozul();
@@ -101,6 +101,8 @@ public class HealthSystem : MonoBehaviour
             manager.Patla();
         }
     }
-    public void Kazan() { [
-        ]}
+    public void Kazan()
+    {
+        manager.Kazan();
+    }
 }

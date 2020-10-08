@@ -16,7 +16,7 @@ public class Direksiyon : MonoBehaviour
         float dis = (Vector2.Distance(player.transform.position, this.transform.position));
         if (dis <= 2)
         {
-            if (GameObject.FindWithTag("GameController").GetComponent<Manager>().GemiPatlak)
+            if (GameObject.FindWithTag("Gemi").GetComponent<HealthSystem>().Health < GameObject.FindWithTag("Gemi").GetComponent<HealthSystem>().maxHealth)
             {
                 transform.GetChild(0).gameObject.SetActive(true);
                 if (Input.GetKeyDown(KeyCode.F))

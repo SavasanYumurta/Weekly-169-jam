@@ -7,10 +7,11 @@ using UnityEngine.UI;
 public class Manager : MonoBehaviour
 {
     [SerializeField] private Soru PatlamaSorusu,currenSoru;
-    private bool soru,map;
+    private bool soru,map,ara;
     public bool GemiPatlak,savasta;
-    [SerializeField] private GameObject soruBolum,mapB,UI;
+    [SerializeField] private GameObject soruBolum,mapB,UI,eShip,direksiyon;
     public int score;
+    public float zaman,zamanT;
     
     /*public void Update()
     {
@@ -98,7 +99,41 @@ public class Manager : MonoBehaviour
         if(score > PlayerPrefs.GetInt("BS", 0)){
             PlayerPrefs.SetInt("BS", score);
         }
-        UI.transform.GetChild(3).gameObject.SetActive(true);
+        GameObject GO = UI.transform.GetChild(3).gameObject;
+        GO.SetActive(true);
+        GO.transform.GetChild(2).GetComponent<Text>().text = "Your Score :" + score;
+        GO.transform.GetChild(3).GetComponent<Text>().text = "Best Score :" + PlayerPrefs.GetInt("BS", score);
+    }
+    public void Kazan()
+    {
+        score += Random.Range(500, 2500);
+        zaman = zamanT;
+        ara = true;
+        Destroy(GameObject.FindWithTag("enemyShip").gameObject);
+        transform.GetChild(4).gameObject.SetActive(true);
+        savasta = false;
+        direksiyon.SetActive(true);
+    }
+    public void Update()
+    {
+        if (ara)
+        {
+            transform.GetChild(4).GetComponent<Text>().text = zaman.ToString();
+            zaman -= Time.deltaTime;
+            if(zaman <= 0)
+            {
+                ara = false;
+                GameObject go = Instantiate(eShip, new Vector2(70, 0), Quaternion.identity);
+                go.transform.localScale = new Vector2(-1, 1);
+                transform.GetChild(4).gameObject.SetActive(false);
+                savasta = true;
+                direksiyon.SetActive(false);
+            }
+        }
+    }
+    public void reset()
+    {
+        SceneManager.LoadScene(1);
     }
     /*
     public void Oynanıs(float cevap)
