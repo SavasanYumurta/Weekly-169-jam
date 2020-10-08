@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.Runtime.InteropServices;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
@@ -10,6 +11,7 @@ public class Manager : MonoBehaviour
     private bool soru,map,ara;
     public bool GemiPatlak,savasta;
     [SerializeField] private GameObject soruBolum,mapB,UI,eShip,direksiyon;
+    [SerializeField] private bool menu;
     public int score;
     public float zaman,zamanT;
     
@@ -130,10 +132,22 @@ public class Manager : MonoBehaviour
                 direksiyon.SetActive(false);
             }
         }
+        if (menu)
+        {
+            UI.transform.GetChild(0).GetComponent<Text>().text = "Best Score: " + PlayerPrefs.GetInt("BS", 0);
+        }
     }
     public void reset()
     {
         SceneManager.LoadScene(1);
+    }
+    public void Menu()
+    {
+        SceneManager.LoadScene(0);
+    }
+    public void Quit()
+    {
+        Application.Quit();
     }
     /*
     public void Oynanıs(float cevap)
